@@ -3,66 +3,116 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Berita Terkini</title>
+    <title>Warta - Portal Berita Minimalis</title>
     <style>
         * { box-sizing: border-box; margin: 0; padding: 0; }
         
+        :root {
+            --bg-color: #050505;
+            --card-bg: #121212;
+            --card-border: #1e1e1e;
+            --text-primary: #f5f5f7;
+            --text-secondary: #a1a1a6;
+            --accent-color: #ff3b30;
+        }
+
         body {
-            font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI", Roboto, sans-serif;
-            background-color: #0d0d0d;
-            color: #e5e5e5;
-            padding: 24px 16px;
-            max-width: 640px;
+            font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", Roboto, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-primary);
+            padding-bottom: 40px;
+            max-width: 600px;
             margin: 0 auto;
+            -webkit-font-smoothing: antialiased;
         }
 
+        /* Header Transparan (Sticky Glassmorphism) */
         .header {
-            margin-bottom: 32px;
-            border-bottom: 1px solid #222;
-            padding-bottom: 16px;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            background: rgba(5, 5, 5, 0.8);
+            backdrop-filter: blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+            padding: 16px 20px;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
         }
 
-        .header h1 {
-            font-size: 26px;
+        .header-title h1 {
+            font-size: 20px;
             font-weight: 700;
             letter-spacing: -0.5px;
-            color: #ffffff;
-            margin-bottom: 6px;
+            color: var(--text-primary);
         }
 
-        .header p {
-            font-size: 13px;
-            color: #888888;
+        .header-title p {
+            font-size: 11px;
+            color: var(--text-secondary);
+            margin-top: 2px;
         }
 
+        /* Indikator Live */
+        .live-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            background: rgba(255, 59, 48, 0.12);
+            color: var(--accent-color);
+            padding: 4px 10px;
+            border-radius: 20px;
+            font-size: 11px;
+            font-weight: 600;
+            letter-spacing: 0.5px;
+        }
+
+        .live-dot {
+            width: 6px;
+            height: 6px;
+            background-color: var(--accent-color);
+            border-radius: 50%;
+            box-shadow: 0 0 8px var(--accent-color);
+        }
+
+        /* Container Kartu */
         .news-grid {
+            padding: 20px 16px;
             display: flex;
             flex-direction: column;
             gap: 20px;
         }
 
         .news-card {
-            background: #161616;
-            border: 1px solid #242424;
-            border-radius: 14px;
+            background: var(--card-bg);
+            border: 1px solid var(--card-border);
+            border-radius: 16px;
             overflow: hidden;
             text-decoration: none;
             color: inherit;
-            transition: transform 0.2s ease, border-color 0.2s ease;
+            transition: all 0.2s ease;
             display: flex;
             flex-direction: column;
         }
 
         .news-card:active {
             transform: scale(0.98);
-            border-color: #444;
+            border-color: #333;
+        }
+
+        .image-container {
+            position: relative;
+            width: 100%;
+            height: 210px;
+            background: #1a1a1a;
+            overflow: hidden;
         }
 
         .news-card img {
             width: 100%;
-            height: 210px;
+            height: 100%;
             object-fit: cover;
-            background: #222;
             display: block;
         }
 
@@ -71,50 +121,64 @@
         }
 
         .news-title {
-            font-size: 17px;
+            font-size: 16px;
             font-weight: 600;
             line-height: 1.4;
-            color: #f1f1f1;
-            margin-bottom: 10px;
+            color: var(--text-primary);
+            margin-bottom: 8px;
         }
 
         .news-desc {
-            font-size: 13.5px;
-            color: #aaa;
+            font-size: 13px;
+            color: var(--text-secondary);
             line-height: 1.5;
             margin-bottom: 14px;
             display: -webkit-box;
-            -webkit-line-clamp: 3;
+            -webkit-line-clamp: 2;
             -webkit-box-orient: vertical;
             overflow: hidden;
         }
 
-        .news-date {
+        .news-meta {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
             font-size: 11px;
             color: #666;
-            text-align: right;
+            border-top: 1px solid rgba(255, 255, 255, 0.05);
+            padding-top: 12px;
+        }
+
+        .news-source {
+            font-weight: 600;
+            color: #888;
             text-transform: uppercase;
             letter-spacing: 0.5px;
         }
 
         .status-msg {
             text-align: center;
-            padding: 60px 20px;
-            color: #666;
+            padding: 80px 20px;
+            color: var(--text-secondary);
             font-size: 14px;
         }
     </style>
 </head>
 <body>
 
-    <div class="header">
-        <h1>📰 Berita Terkini</h1>
-        <p>Diperbarui secara otomatis setiap jam</p>
-    </div>
+    <header class="header">
+        <div class="header-title">
+            <h1>Warta.</h1>
+            <p>Update Otomatis Per Jam</p>
+        </div>
+        <div class="live-badge">
+            <span class="live-dot"></span> LIVE
+        </div>
+    </header>
 
-    <div id="news-container" class="news-grid">
-        <div class="status-msg">Memuat berita...</div>
-    </div>
+    <main id="news-container" class="news-grid">
+        <div class="status-msg">Memuat berita terbaru...</div>
+    </main>
 
     <script>
         fetch('news.json')
@@ -124,7 +188,7 @@
                 container.innerHTML = '';
                 
                 if (!data.articles || data.articles.length === 0) {
-                    container.innerHTML = '<div class="status-msg">Belum ada berita tersedia. Jalankan Workflow di Actions.</div>';
+                    container.innerHTML = '<div class="status-msg">Belum ada berita tersedia.</div>';
                     return;
                 }
 
@@ -135,13 +199,17 @@
                     card.target = '_blank';
 
                     const dateStr = item.pubDate ? new Date(item.pubDate).toLocaleString('id-ID', { dateStyle: 'medium', timeStyle: 'short' }) : '';
+                    const cleanDesc = (item.description || '').replace(/<[^>]*>?/gm, '');
 
                     card.innerHTML = `
-                        ${item.image ? `<img src="${item.image}" alt="Gambar Berita">` : ''}
+                        ${item.image ? `<div class="image-container"><img src="${item.image}" alt="Gambar Berita"></div>` : ''}
                         <div class="news-content">
                             <div class="news-title">${item.title}</div>
-                            <div class="news-desc">${item.description || ''}</div>
-                            ${dateStr ? `<div class="news-date">${dateStr}</div>` : ''}
+                            <div class="news-desc">${cleanDesc}</div>
+                            <div class="news-meta">
+                                <span class="news-source">ANTARA NEWS</span>
+                                <span>${dateStr}</span>
+                            </div>
                         </div>
                     `;
                     container.appendChild(card);
