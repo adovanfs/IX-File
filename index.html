@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portal Berita Otomatis</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background-color: #f4f6f8; color: #333; padding: 20px 15px; }
+        .header { text-align: center; margin-bottom: 25px; }
+        .header h1 { font-size: 24px; color: #1a1a1a; margin-bottom: 5px; }
+        .header p { font-size: 13px; color: #666; }
+        .news-grid { max-width: 600px; margin: 0 auto; display: flex; flex-direction: column; gap: 15px; }
+        .news-card { background: #ffffff; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.05); text-decoration: none; color: inherit; display: flex; flex-direction: column; }
+        .news-card img { width: 100%; height: 200px; object-fit: cover; background: #eee; }
+        .news-content { padding: 15px; }
+        .news-title { font-size: 16px; font-weight: bold; line-height: 1.4; margin-bottom: 8px; color: #111; }
+        .news-desc { font-size: 13px; color: #555; line-height: 1.5; margin-bottom: 12px; }
+        .news-date { font-size: 11px; color: #888; text-align: right; }
+        .loading { text-align: center; padding: 40px; color: #666; font-size: 14px; }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <h1>📰 Berita Terkini</h1>
+        <p>Diperbarui secara otomatis setiap jam</p>
+    </div>
+
+    <div id="news-container" class="news-grid">
+        <div class="loading">Memuat berita terbaru...</div>
+    </div>
+
+    <script>
+        fetch('news.json')
+            .then(res => res.json())
+            .then(data => {
+                const container = document.getElementById('news-container');
+                container.innerHTML = '';
+                
+                if (!data.articles || data.articles.length === 0) {
+                    container.innerHTML = '<div class="loading">Belum ada berita tersedia.</div>';
+                    return;
+                }
+
+                data.articles.forEach(item => {
+                    const card = document.createElement('a');
+                    card.className = 'news-card';
+                    card.href = item.url;
+                    card.target = '_blank';
+
+                    const dateStr = item.pubDate ? new Date(item.pubDate).toLocaleString('id-ID', { dateStyle: 'medium', timeStyle: 'short' }) : '';
+
+                    card.innerHTML = `
+                        ${item.image ? `<img src="${item.image}" alt="Gambar Berita">` : ''}
+                        <div class="news-content">
+                            <div class="news-title">${item.title}</div>
+                            <div class="news-desc">${item.description || ''}</div>
+                            ${dateStr ? `<div class="news-date">${dateStr}</div>` : ''}
+                        </div>
+                    `;
+                    container.appendChild(card);
+                });
+            })
+            .catch(err => {
+                document.getElementById('news-container').innerHTML = '<div class="loading">Gagal memuat berita.</div>';
+            });
+    </script>
+
+</body>
+</html>
