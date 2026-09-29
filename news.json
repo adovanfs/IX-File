@@ -1,74 +1,164 @@
 {
     "articles": [
         {
+            "source": "ANTARA NEWS",
             "title": "Jakarta diperkirakan hujan pada Rabu sore hingga malam",
-            "description": "\n<img src=\"https://cdn.antaranews.com/cache/800x533/2026/04/10/bmkg-prediksi-cuaca-ekstrem-dampak-awan-cumulonimbus-2761174.jpg\" align=\"left\" border=\"0\">Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) memprakirakan cuaca di wilayah DKI Jakarta hujan ringan pada Rabu ...",
+            "description": "Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) memprakirakan cuaca di wilayah DKI Jakarta hujan ringan pada Rabu ...",
             "url": "https://www.antaranews.com/berita/5764113/jakarta-diperkirakan-hujan-pada-rabu-sore-hingga-malam",
             "image": "https://cdn.antaranews.com/cache/800x533/2026/04/10/bmkg-prediksi-cuaca-ekstrem-dampak-awan-cumulonimbus-2761174.jpg",
             "pubDate": "2026-09-29 21:46:14"
         },
         {
+            "source": "ANTARA NEWS",
             "title": "Waskita Karya penuhi pokok obligasi Rp722 miliar lewat penjaminan",
-            "description": "\n<img src=\"https://cdn.antaranews.com/cache/800x533/2026/09/30/WhatsApp-Image-2026-09-29-at-16.50.30-1.jpeg\" align=\"left\" border=\"0\">PT Waskita Karya Tbk mengumumkan telah memenuhi kewajiban pokok Obligasi III Waskita Karya Tahun 2021 Seri A senilai ...",
+            "description": "PT Waskita Karya Tbk mengumumkan telah memenuhi kewajiban pokok Obligasi III Waskita Karya Tahun 2021 Seri A senilai ...",
             "url": "https://www.antaranews.com/berita/5764112/waskita-karya-penuhi-pokok-obligasi-rp722-miliar-lewat-penjaminan",
             "image": "https://cdn.antaranews.com/cache/800x533/2026/09/30/WhatsApp-Image-2026-09-29-at-16.50.30-1.jpeg",
             "pubDate": "2026-09-29 20:41:47"
         },
         {
+            "source": "ANTARA NEWS",
             "title": "Indonesia-Mongolia peringati 70 tahun hubungan diplomatik",
-            "description": "\n<img src=\"https://cdn.antaranews.com/cache/800x533/2026/09/INDONESIA-MONGOLIA-PERINGATI-70-TAHUN-HUBUNGAN-DIPLOMATIK.jpg\" align=\"left\" border=\"0\">ANTARA - Indonesia dan Mongolia memperingati 70 tahun hubungan diplomatik lewat penyelenggaraan forum bisnis dan ...",
+            "description": "ANTARA - Indonesia dan Mongolia memperingati 70 tahun hubungan diplomatik lewat penyelenggaraan forum bisnis dan ...",
             "url": "https://www.antaranews.com/video/5764111/indonesia-mongolia-peringati-70-tahun-hubungan-diplomatik",
             "image": "https://cdn.antaranews.com/cache/800x533/2026/09/INDONESIA-MONGOLIA-PERINGATI-70-TAHUN-HUBUNGAN-DIPLOMATIK.jpg",
             "pubDate": "2026-09-29 19:43:33"
         },
         {
+            "source": "ANTARA NEWS",
             "title": "KJRI Guangzhou dukung konser Mocca di Tiongkok",
-            "description": "\n<img src=\"https://cdn.antaranews.com/cache/800x533/2026/09/30/Weixin-Image_20260929142604_149_136.jpg\" align=\"left\" border=\"0\">Konsulat Jenderal Republik Indonesia (KJRI) Guangzhou mendukung acara konser kelompok musik ...",
+            "description": "Konsulat Jenderal Republik Indonesia (KJRI) Guangzhou mendukung acara konser kelompok musik ...",
             "url": "https://www.antaranews.com/berita/5764108/kjri-guangzhou-dukung-konser-mocca-di-tiongkok",
             "image": "https://cdn.antaranews.com/cache/800x533/2026/09/30/Weixin-Image_20260929142604_149_136.jpg",
             "pubDate": "2026-09-29 18:49:55"
         },
         {
+            "source": "ANTARA NEWS",
             "title": "Sulteng ajukan 210 gerai KDKMP ke Agrinas untuk verifikasi",
-            "description": "\n<img src=\"https://cdn.antaranews.com/cache/800x533/2026/09/AB_SULTENG-AJUKAN-210-GERAI-KDKMP-KE-AGRINAS-UNTUK-VERIFIKASI.jpg\" align=\"left\" border=\"0\">ANTARA - Pemerintah Provinsi Sulawesi Tengah mengajukan 210 koperasi desa/kelurahan merah putih (KDKMP) untuk menjalani ...",
+            "description": "ANTARA - Pemerintah Provinsi Sulawesi Tengah mengajukan 210 koperasi desa/kelurahan merah putih (KDKMP) untuk menjalani ...",
             "url": "https://www.antaranews.com/video/5763977/sulteng-ajukan-210-gerai-kdkmp-ke-agrinas-untuk-verifikasi",
             "image": "https://cdn.antaranews.com/cache/800x533/2026/09/AB_SULTENG-AJUKAN-210-GERAI-KDKMP-KE-AGRINAS-UNTUK-VERIFIKASI.jpg",
             "pubDate": "2026-09-29 18:18:11"
         },
         {
-            "title": "Dubes Junimart dukung DPLN Gekrafs Italia kembangkan potensi ekraf",
-            "description": "\n<img src=\"https://cdn.antaranews.com/cache/800x533/2026/09/30/66bf1c38-5040-48c8-88e2-a5994899cae7.jpeg\" align=\"left\" border=\"0\">Duta Besar Luar Biasa dan Berkuasa Penuh Republik Indonesia untuk Italia Junimart Girsang mendukung penuh keberadaan ...",
-            "url": "https://www.antaranews.com/berita/5764104/dubes-junimart-dukung-dpln-gekrafs-italia-kembangkan-potensi-ekraf",
-            "image": "https://cdn.antaranews.com/cache/800x533/2026/09/30/66bf1c38-5040-48c8-88e2-a5994899cae7.jpeg",
-            "pubDate": "2026-09-29 18:16:16"
+            "source": "CNN INDONESIA",
+            "title": "Pemerintah Kaji Upaya Atasi Over Capacity Lapas Napi Narkoba",
+            "description": "Kepala BNN Suyudi Ario Seto membahas penanganan over capacity lapas dengan opsi rehabilitasi narapidana narkotika. Rapat koordinasi akan digelar segera.",
+            "url": "https://www.cnnindonesia.com/nasional/20260929194224-12-1409681/pemerintah-kaji-upaya-atasi-over-capacity-lapas-napi-narkoba",
+            "image": "https://akcdn.detik.net.id/visual/2026/07/23/kepala-bnn-ri-komjen-suyudi-ario-seto-1784797718159_169.png?w=360&amp;q=90",
+            "pubDate": "2026-09-29 20:00:32"
         },
         {
-            "title": "Hari ke-17 pencarian, penyelam evakuasi tiga jenazah korban KM Virgo",
-            "description": "\n<img src=\"https://cdn.antaranews.com/cache/800x533/2026/09/AB_HARI-KE-17-PENCARIAN-PENYELAM-EVAKUASI-TIGA-JENAZAH-KORBAN-KM-VIRGO.jpg\" align=\"left\" border=\"0\">ANTARA - Operasi Pencarian dan Pertolongan (SAR) gabungan kecelakaan Kapal Motor Virgo Transport 8 di Perairan Laut ...",
-            "url": "https://www.antaranews.com/video/5764065/hari-ke-17-pencarian-penyelam-evakuasi-tiga-jenazah-korban-km-virgo",
-            "image": "https://cdn.antaranews.com/cache/800x533/2026/09/AB_HARI-KE-17-PENCARIAN-PENYELAM-EVAKUASI-TIGA-JENAZAH-KORBAN-KM-VIRGO.jpg",
-            "pubDate": "2026-09-29 18:14:30"
+            "source": "CNN INDONESIA",
+            "title": "Saksi di Sidang Ngaku Nombok Dolar AS Stafsus Yaqut untuk Pansus Haji",
+            "description": "Zainal Abidin, Komisaris PT Sucofindo, mengaku menombok US$40.100 untuk genapkan uang titipan terkait dugaan korupsi kuota haji.",
+            "url": "https://www.cnnindonesia.com/nasional/20260929202112-12-1409702/saksi-di-sidang-ngaku-nombok-dolar-as-stafsus-yaqut-untuk-pansus-haji",
+            "image": "https://akcdn.detik.net.id/visual/2026/09/29/jaksa-tampilkan-barbuk-uang-dolar-as-di-sidang-korupsi-kuota-haji-1790659863834_169.jpeg?w=360&amp;q=90",
+            "pubDate": "2026-09-29 18:00:39"
         },
         {
-            "title": "Manchester City bantah bersalah terkait dakwaan Premier League",
-            "description": "\n<img src=\"https://cdn.antaranews.com/cache/800x533/2026/09/06/1000054455.jpg\" align=\"left\" border=\"0\">Manchester City mengeluarkan pernyataan resmi yang mengklaim bahwa mereka tidak bersalah terkait dakwaan Premier ...",
-            "url": "https://www.antaranews.com/berita/5764101/manchester-city-bantah-bersalah-terkait-dakwaan-premier-league",
-            "image": "https://cdn.antaranews.com/cache/800x533/2026/09/06/1000054455.jpg",
-            "pubDate": "2026-09-29 18:03:18"
+            "source": "CNN INDONESIA",
+            "title": "KPK Geledah Rumah Wali Kota Madiun Nonaktif Usut Kasus TPPU",
+            "description": "KPK menggeledah rumah Wali Kota Madiun nonaktif Maidi dan anaknya dalam kasus dugaan gratifikasi dan pencucian uang.",
+            "url": "https://www.cnnindonesia.com/nasional/20260929232229-12-1409737/kpk-geledah-rumah-wali-kota-madiun-nonaktif-usut-kasus-tppu",
+            "image": "https://akcdn.detik.net.id/visual/2024/03/05/ilustrasi-gedung-kpk-8_169.jpeg?w=360&amp;q=90",
+            "pubDate": "2026-09-29 16:23:59"
         },
         {
-            "title": "IPC TPK catat volume peti kemas tumbuh 8,37 persen hingga Agustus",
-            "description": "\n<img src=\"https://cdn.antaranews.com/cache/800x533/2026/09/30/2F24D2B6-37C5-4A06-A386-7B3CE4AA59AA.jpeg\" align=\"left\" border=\"0\">IPC Terminal Petikemas mencatat volume bongkar muat peti kemas mencapai 2,51 juta TEUs hingga Agustus 2026 atau ...",
-            "url": "https://www.antaranews.com/berita/5764099/ipc-tpk-catat-volume-peti-kemas-tumbuh-837-persen-hingga-agustus",
-            "image": "https://cdn.antaranews.com/cache/800x533/2026/09/30/2F24D2B6-37C5-4A06-A386-7B3CE4AA59AA.jpeg",
-            "pubDate": "2026-09-29 17:35:23"
+            "source": "CNN INDONESIA",
+            "title": "Pramono Respons Kasus Dugaan Penipuan Rekrutmen Petugas Damkar DKI",
+            "description": "Gubernur DKI Jakarta Pramono Anung mendukung penegakan hukum terkait dugaan penipuan rekrutmen petugas Damkar yang merugikan korban Rp70 juta.",
+            "url": "https://www.cnnindonesia.com/nasional/20260929204731-20-1409712/pramono-respons-kasus-dugaan-penipuan-rekrutmen-petugas-damkar-dki",
+            "image": "https://akcdn.detik.net.id/visual/2026/09/16/gubernur-dki-jakarta-pramono-anung-resmikan-lrt-jakarta-jalur-kelapa-gading-manggarai-1789542797367_169.png?w=360&amp;q=90",
+            "pubDate": "2026-09-29 16:10:48"
         },
         {
-            "title": "Polrestro Jakbar bongkar dugaan produksi etomidate di PIK 2 Banten",
-            "description": "\n<img src=\"https://cdn.antaranews.com/cache/800x533/2026/09/29/IMG-20260929-WA0023.jpg\" align=\"left\" border=\"0\">Satuan Reserse Narkoba Polres Metro Jakarta Barat mengungkap dugaan operasi klandestin laboratorium narkotika jenis ...",
-            "url": "https://www.antaranews.com/berita/5764097/polrestro-jakbar-bongkar-dugaan-produksi-etomidate-di-pik-2-banten",
-            "image": "https://cdn.antaranews.com/cache/800x533/2026/09/29/IMG-20260929-WA0023.jpg",
-            "pubDate": "2026-09-29 17:34:08"
+            "source": "CNN INDONESIA",
+            "title": "Buruh Ancam Kembali Demo Jelang Pengesahan RUU Ketenagakerjaan",
+            "description": "KASBI menyampaikan 11 tuntutan buruh terkait RUU Pelindungan Ketenagakerjaan kepada DPR. Jika tidak dipenuhi, aksi unjuk rasa akan dilanjutkan.",
+            "url": "https://www.cnnindonesia.com/nasional/20260929211544-20-1409717/buruh-ancam-kembali-demo-jelang-pengesahan-ruu-ketenagakerjaan",
+            "image": "https://akcdn.detik.net.id/visual/2026/09/29/buruh-minta-magang-ditiadakan-alasan-eksploitasi-1790671895340_169.jpeg?w=360&amp;q=90",
+            "pubDate": "2026-09-29 15:45:00"
+        },
+        {
+            "source": "CNBC INDONESIA",
+            "title": "Amerika dan Eropa Bisa Jadi Musuh, Perang Bisa Pecah di Sini",
+            "description": "Kawasan Arktik kini jadi arena persaingan AS dan Eropa, dengan fokus pada geopolitik dan sumber daya. Smertina analisis potensi konflik di wilayah ini.",
+            "url": "https://www.cnbcindonesia.com/news/20260929173752-4-771907/amerika-eropa-bisa-jadi-musuh-perang-bisa-pecah-di-sini",
+            "image": "https://awsimages.detik.net.id/visual/2025/03/21/dunia-makin-menegangkan-benteng-eropa-diberi-amunisi-rp-14500-t-1742550067028_169.jpeg?w=1200&amp;q=90",
+            "pubDate": "2026-09-29 15:10:00"
+        },
+        {
+            "source": "CNBC INDONESIA",
+            "title": "Mojtaba Khamenei Tiba-Tiba Muncul, Beri Pesan ke Amerika",
+            "description": "Pemimpin Iran, Khamenei, menyatakan AS akan pergi dari Timur Tengah setelah menderita kekalahan. Diplomasi terkait Hormuz berlanjut.",
+            "url": "https://www.cnbcindonesia.com/news/20260929150057-4-771839/mojtaba-khamenei-tiba-tiba-muncul-beri-pesan-ke-amerika",
+            "image": "https://awsimages.detik.net.id/visual/2026/09/29/iran-crisis-1790676917737_169.jpeg?w=1200&amp;q=90",
+            "pubDate": "2026-09-29 15:00:00"
+        },
+        {
+            "source": "CNBC INDONESIA",
+            "title": "Aturan Baru SPM Jalan Tol Ditargetkan Terbit Oktober 2026",
+            "description": "Kementerian PU targetkan Peraturan Menteri tentang SPM Jalan Tol diundangkan Oktober 2026. Aturan baru perketat pelayanan dan sanksi bagi BUJT.",
+            "url": "https://www.cnbcindonesia.com/news/20260929173514-4-771929/aturan-baru-spm-jalan-tol-ditargetkan-terbit-oktober-2026",
+            "image": "https://awsimages.detik.net.id/visual/2026/08/25/sebuah-mobil-melintasi-jalan-tol-ibu-kota-nusantar-ikn-menghubungkan-kota-balikpapan-dengan-kawasan-inti-pusat-pemerintahan-ki-1787646519201_169.jpeg?w=1200&amp;q=90",
+            "pubDate": "2026-09-29 14:50:10"
+        },
+        {
+            "source": "CNBC INDONESIA",
+            "title": "Perang Saudara Tetangga RI Menggila, Militer Bom Pasar-50 Orang Tewas",
+            "description": "Serangan udara militer Myanmar di pasar Rakhine menewaskan 50 orang dan melukai 58 lainnya. Konflik berkepanjangan terus menambah jumlah korban jiwa.",
+            "url": "https://www.cnbcindonesia.com/news/20260929145502-4-771835/perang-saudara-tetangga-ri-menggila-militer-bom-pasar-50-orang-tewas",
+            "image": "https://awsimages.detik.net.id/visual/2026/09/29/myanmar-conflict-1790668627194_169.jpeg?w=1200&amp;q=90",
+            "pubDate": "2026-09-29 14:50:00"
+        },
+        {
+            "source": "CNBC INDONESIA",
+            "title": "Geger Gangster Berebut Tambang Emas Rp 12 T, Warga Jadi Korban",
+            "description": "Perebutan bisnis tambang emas ilegal memicu kekerasan, dengan penembakan di Wedela menewaskan 18 orang.",
+            "url": "https://www.cnbcindonesia.com/news/20260929165549-4-771902/geger-gangster-berebut-tambang-emas-rp-12-t-warga-jadi-korban",
+            "image": "https://awsimages.detik.net.id/visual/2024/11/29/ilustrasi-tambang-emas-istimewa_169.jpeg?w=1200&amp;q=90",
+            "pubDate": "2026-09-29 14:40:00"
+        },
+        {
+            "source": "REPUBLIKA",
+            "title": "Pemerintah Kucurkan Rp1,2 Triliun Bangun Pelabuhan Perikanan Modern di Jembrana",
+            "description": "REPUBLIKA.CO.ID, JEMBRANA, – Pemerintah Indonesia menggelontorkan dana sebesar Rp1,2 triliun atau sekitar 66,6 juta dolar AS untuk mengembangkan Pelabuhan Perikanan Pengambengan di Kabupaten Jembrana, Bali. Proyek ini bertujuan mentransformasi...",
+            "url": "https://news.republika.co.id/berita/tm50oi630000/pemerintah-kucurkan-rp12-triliun-bangun-pelabuhan-perikanan-modern-di-jembrana",
+            "image": "https://static.republika.co.id/uploads/images/detailnews/073850400-1790704818-IMG_2805jpeg.jpeg",
+            "pubDate": "2026-09-29 18:00:18"
+        },
+        {
+            "source": "REPUBLIKA",
+            "title": "IPC TPK Catat Kinerja Positif, Volume Bongkar Muat Peti Kemas Tumbuh 8,37 Persen",
+            "description": "REPUBLIKA.CO.ID, JAKARTA, – IPC Terminal Petikemas (IPC TPK) membukukan kinerja operasional positif dengan total volume bongkar muat peti kemas mencapai 2,51 juta twenty-foot equivalent units (TEUs) sepanjang Januari hingga...",
+            "url": "https://news.republika.co.id/berita/tm4zzh1730000/ipc-tpk-catat-kinerja-positif-volume-bongkar-muat-peti-kemas-tumbuh-837-persen",
+            "image": "https://static.republika.co.id/uploads/images/detailnews/055309300-1790703917-2F24D2B6-37C5-4A06-A386-7B3CE4.jpeg",
+            "pubDate": "2026-09-29 17:45:17"
+        },
+        {
+            "source": "REPUBLIKA",
+            "title": "Gekrafs Perluas Jejaring Global, Kukuhkan DPLN Italia di Roma",
+            "description": "REPUBLIKA.CO.ID, JAKARTA, – Gerakan Ekonomi Kreatif Nasional (Gekrafs) terus memperluas jaringan globalnya dengan melantik Dewan Perwakilan Luar Negeri (DPLN) Gekrafs Italia periode 2026-2029. Prosesi pelantikan berlangsung di KBRI Roma,...",
+            "url": "https://news.republika.co.id/berita/tm4zai9730000/gekrafs-perluas-jejaring-global-kukuhkan-dpln-italia-di-roma",
+            "image": "https://static.republika.co.id/uploads/images/detailnews/095334000-1790703018-e6f38f45-7129-49df-9847-f8b1f2.jpeg",
+            "pubDate": "2026-09-29 17:30:18"
+        },
+        {
+            "source": "REPUBLIKA",
+            "title": "Livinia Akui Aplikasi Mobile JKN Bikin Akses Layanan Kesehatan Lebih Praktis",
+            "description": "REPUBLIKA.CO.ID, TONDANO, – Bagi Livinia (21), warga Tondano, Kabupaten Minahasa, Sulawesi Utara, mengakses informasi dan layanan program Jaminan Kesehatan Nasional (JKN) kini terasa lebih praktis. Hal ini berkat pemanfaatan...",
+            "url": "https://news.republika.co.id/berita/tm4ylh3430000/livinia-akui-aplikasi-mobile-jkn-bikin-akses-layanan-kesehatan-lebih-praktis",
+            "image": "https://static.republika.co.id/uploads/images/detailnews/039093200-1790702117-BPJS-TONDANO-LIVINIAjpeg.jpeg",
+            "pubDate": "2026-09-29 17:15:17"
+        },
+        {
+            "source": "REPUBLIKA",
+            "title": "Erick Thohir Minta Timnas Indonesia Jangan Remehkan Bangladesh di Laga Penentu",
+            "description": "REPUBLIKA.CO.ID, BANDUNG, – Ketua Umum Persatuan Sepakbola Seluruh Indonesia (PSSI) Erick Thohir meminta Timnas Indonesia tidak menganggap remeh Bangladesh pada laga terakhir Divisi 1 Grup A FIFA ASEAN Cup...",
+            "url": "https://news.republika.co.id/berita/tm4xwe030000/erick-thohir-minta-timnas-indonesia-jangan-remehkan-bangladesh-di-laga-penentu",
+            "image": "https://static.republika.co.id/uploads/images/detailnews/022147500-1790701214-IMG_1346jpeg.jpeg",
+            "pubDate": "2026-09-29 17:00:14"
         }
     ]
 }
