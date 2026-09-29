@@ -3,16 +3,22 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Warta - Portal Berita Minimalis</title>
+    <title>Warta — Agregator Berita Otomatis</title>
     <style>
-        * { box-sizing: border-box; margin: 0; padding: 0; }
-        
+        /* === Reset & Variabel === */
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
         :root {
-            --bg-color: #050505;
+            --bg-color: #080808;
             --card-bg: #121212;
             --card-border: #1e1e1e;
             --text-primary: #f5f5f7;
             --text-secondary: #a1a1a6;
+            --text-muted: #666666;
             --accent-color: #ff3b30;
         }
 
@@ -26,12 +32,12 @@
             -webkit-font-smoothing: antialiased;
         }
 
-        /* Header Transparan (Sticky Glassmorphism) */
+        /* === Header Sticky (Glassmorphism) === */
         .header {
             position: sticky;
             top: 0;
             z-index: 100;
-            background: rgba(5, 5, 5, 0.8);
+            background: rgba(8, 8, 8, 0.85);
             backdrop-filter: blur(20px);
             -webkit-backdrop-filter: blur(20px);
             padding: 16px 20px;
@@ -54,7 +60,6 @@
             margin-top: 2px;
         }
 
-        /* Indikator Live */
         .live-badge {
             display: inline-flex;
             align-items: center;
@@ -76,7 +81,7 @@
             box-shadow: 0 0 8px var(--accent-color);
         }
 
-        /* Container Kartu */
+        /* === Feed Berita === */
         .news-grid {
             padding: 20px 16px;
             display: flex;
@@ -91,7 +96,7 @@
             overflow: hidden;
             text-decoration: none;
             color: inherit;
-            transition: all 0.2s ease;
+            transition: transform 0.2s ease, border-color 0.2s ease;
             display: flex;
             flex-direction: column;
         }
@@ -144,14 +149,14 @@
             justify-content: space-between;
             align-items: center;
             font-size: 11px;
-            color: #666;
+            color: var(--text-muted);
             border-top: 1px solid rgba(255, 255, 255, 0.05);
             padding-top: 12px;
         }
 
         .news-source {
             font-weight: 600;
-            color: #888;
+            color: #888888;
             text-transform: uppercase;
             letter-spacing: 0.5px;
         }
@@ -169,7 +174,7 @@
     <header class="header">
         <div class="header-title">
             <h1>Warta.</h1>
-            <p>Update Otomatis Per Jam</p>
+            <p>Diperbarui otomatis tiap jam</p>
         </div>
         <div class="live-badge">
             <span class="live-dot"></span> LIVE
@@ -181,6 +186,11 @@
     </main>
 
     <script>
+        function cleanText(text) {
+            if (!text) return '';
+            return text.replace(/<[^>]*>?/gm, '').trim();
+        }
+
         fetch('news.json')
             .then(res => res.json())
             .then(data => {
@@ -188,7 +198,7 @@
                 container.innerHTML = '';
                 
                 if (!data.articles || data.articles.length === 0) {
-                    container.innerHTML = '<div class="status-msg">Belum ada berita tersedia.</div>';
+                    container.innerHTML = '<div class="status-msg">Belum ada berita tersedia. Jalankan Workflow di Actions.</div>';
                     return;
                 }
 
@@ -197,17 +207,21 @@
                     card.className = 'news-card';
                     card.href = item.url;
                     card.target = '_blank';
+                    card.rel = 'noopener noreferrer';
 
-                    const dateStr = item.pubDate ? new Date(item.pubDate).toLocaleString('id-ID', { dateStyle: 'medium', timeStyle: 'short' }) : '';
-                    const cleanDesc = (item.description || '').replace(/<[^>]*>?/gm, '');
+                    const dateStr = item.pubDate 
+                        ? new Date(item.pubDate).toLocaleString('id-ID', { dateStyle: 'medium', timeStyle: 'short' }) 
+                        : '';
+                    
+                    const descClean = cleanText(item.description);
 
                     card.innerHTML = `
-                        ${item.image ? `<div class="image-container"><img src="${item.image}" alt="Gambar Berita"></div>` : ''}
+                        ${item.image ? `<div class="image-container"><img src="${item.image}" alt="Gambar Berita" loading="lazy"></div>` : ''}
                         <div class="news-content">
-                            <div class="news-title">${item.title}</div>
-                            <div class="news-desc">${cleanDesc}</div>
+                            <div class="news-title">${cleanText(item.title)}</div>
+                            ${descClean ? `<div class="news-desc">${descClean}</div>` : ''}
                             <div class="news-meta">
-                                <span class="news-source">ANTARA NEWS</span>
+                                <span class="news-source">${item.source || 'BERITA'}</span>
                                 <span>${dateStr}</span>
                             </div>
                         </div>
@@ -215,7 +229,7 @@
                     container.appendChild(card);
                 });
             })
-            .catch(err => {
+            .catch(() => {
                 document.getElementById('news-container').innerHTML = '<div class="status-msg">Gagal memuat berita.</div>';
             });
     </script>
