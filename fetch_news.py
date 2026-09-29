@@ -1,8 +1,8 @@
 import urllib.request
 import json
 
-# Mengambil berita dari API CNN Indonesia
-API_URL = "https://api-berita-indonesia.vercel.app/cnn/terbaru/"
+# Menggunakan API RSS to JSON Converter yang stabil dari Antara News
+API_URL = "https://api.rss2json.com/v1/api.json?rss_url=https://www.antaranews.com/rss/terkini.xml"
 
 def ambil_berita():
     try:
@@ -13,22 +13,22 @@ def ambil_berita():
         
         with urllib.request.urlopen(req) as response:
             data = json.loads(response.read().decode('utf-8'))
-            posts = data.get("data", {}).get("posts", [])
+            items = data.get("items", [])
             
             berita_terbaru = {"articles": []}
-            for item in posts:
+            for item in items:
                 berita_terbaru["articles"].append({
                     "title": item.get("title"),
-                    "description": item.get("snippet"),
+                    "description": item.get("description", "").replace("<p>", "").replace("</p>", ""),
                     "url": item.get("link"),
-                    "image": item.get("image", {}).get("large") or item.get("image", {}).get("small"),
+                    "image": item.get("enclosure", {}).get("link") or item.get("thumbnail"),
                     "pubDate": item.get("pubDate")
                 })
             
             with open("news.json", "w", encoding="utf-8") as f:
                 json.dump(berita_terbaru, f, ensure_ascii=False, indent=4)
                 
-            print(f"Berhasil memperbarui {len(berita_terbaru['articles'])} berita!")
+            print(f"Berhasil mengambil {len(berita_terbaru['articles'])} berita!")
             
     except Exception as e:
         print("Gagal mengambil berita:", e)
