@@ -1,6 +1,46 @@
 {
     "articles": [
         {
+            "source": "ANTARA NEWS",
+            "title": "Pergerakan rupiah dipengaruhi ADP Employment Change AS yang meningkat",
+            "description": "Kepala Ekonom Permata Bank Josua Pardede mengatakan pergerakan rupiah dipengaruhi data Automatic Data Processing ...",
+            "url": "https://www.antaranews.com/berita/5766009/pergerakan-rupiah-dipengaruhi-adp-employment-change-as-yang-meningkat",
+            "image": "https://cdn.antaranews.com/cache/800x533/2026/09/03/RDG-BI-Mempertahankan-BI-Rate-5-75-Persen-200826-Adm-2_1.jpg",
+            "pubDate": "2026-10-01 04:07:00"
+        },
+        {
+            "source": "ANTARA NEWS",
+            "title": "Bulu Tangkis Sumbang 6 Medali Asian Games 2026, BNI Apresiasi Pembinaan PBSI",
+            "description": "PT Bank Negara Indonesia (Persero) Tbk atau BNI mengapresiasi prestasi tim bulu tangkis Indonesia pada Asian Games ...",
+            "url": "https://www.antaranews.com/berita/5766007/bulu-tangkis-sumbang-6-medali-asian-games-2026-bni-apresiasi-pembinaan-pbsi",
+            "image": "https://cdn.antaranews.com/cache/800x533/2026/10/01/PERS-ANTARA-1_1.png",
+            "pubDate": "2026-10-01 04:02:17"
+        },
+        {
+            "source": "ANTARA NEWS",
+            "title": "Polisi ingatkan guru, ejekan hingga pengucilan bisa jadi perundungan",
+            "description": "Kepolisian Resor Kota (Polresta) Pati, Jawa Tengah, mengingatkan para guru bahwa perundungan terhadap siswa tidak hanya ...",
+            "url": "https://www.antaranews.com/berita/5766004/polisi-ingatkan-guru-ejekan-hingga-pengucilan-bisa-jadi-perundungan",
+            "image": "https://cdn.antaranews.com/cache/800x533/2026/10/01/perundungan.jpg",
+            "pubDate": "2026-10-01 04:01:20"
+        },
+        {
+            "source": "ANTARA NEWS",
+            "title": "Harga cabai rawit Rp101.550/kg, telur ayam Rp29.150/kg per 1 Oktober",
+            "description": "Pusat Informasi Harga Pangan Strategis (PIHPS) Nasional yang dikelola Bank Indonesia mencatat harga komoditas ...",
+            "url": "https://www.antaranews.com/berita/5766001/harga-cabai-rawit-rp101550-kg-telur-ayam-rp29150-kg-per-1-oktober",
+            "image": "https://cdn.antaranews.com/cache/800x533/2026/10/01/203235E8-73A9-4D87-A013-B4E59C4216E4.jpeg",
+            "pubDate": "2026-10-01 04:00:01"
+        },
+        {
+            "source": "ANTARA NEWS",
+            "title": "Ketika Kesaktian Pancasila berbisik dalam kesabaran kita sehari-hari",
+            "description": "Ada sesuatu yang agak menggelitik setiap kali Hari Kesaktian Pancasila tiba dan selalu dirayakan dengan upacara, ...",
+            "url": "https://www.antaranews.com/berita/5765997/ketika-kesaktian-pancasila-berbisik-dalam-kesabaran-kita-sehari-hari",
+            "image": "https://cdn.antaranews.com/cache/800x533/2026/10/01/kenang-jasa-pahlawan-revolusi-2875179.jpg",
+            "pubDate": "2026-10-01 03:59:57"
+        },
+        {
             "source": "CNN INDONESIA",
             "title": "DPR Terima Surpres Pergantian Kapolri",
             "description": "DPR RI menerima surat dari presiden tentang pemberhentian dari jabatan dan pengangkatan Kapolri.",
