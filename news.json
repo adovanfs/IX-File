@@ -1,6 +1,86 @@
 {
     "articles": [
         {
+            "source": "ANTARA NEWS",
+            "title": "Korban tewas di Gaza capai 74.250 orang sejak Oktober 2023",
+            "description": "Lima warga Palestina tewas dan 11 lainnya terluka di Jalur Gaza dalam sehari terakhir, sehingga total korban tewas ...",
+            "url": "https://www.antaranews.com/berita/5776502/korban-tewas-di-gaza-capai-74250-orang-sejak-oktober-2023",
+            "image": "https://cdn.antaranews.com/cache/800x533/2026/10/06/Gaza1.jpg",
+            "pubDate": "2026-10-08 05:35:05"
+        },
+        {
+            "source": "ANTARA NEWS",
+            "title": "TNI AD bongkar praktik operasional judi online di perumahan TNI",
+            "description": "TNI AD membongkar praktik pengoperasian judi online di sebuah rumah yang berlokasi di Komplek Perumahan Angkatan Darat ...",
+            "url": "https://www.antaranews.com/berita/5776500/tni-ad-bongkar-praktik-operasional-judi-online-di-perumahan-tni",
+            "image": "https://cdn.antaranews.com/cache/800x533/2026/05/29/1001425228.jpg",
+            "pubDate": "2026-10-08 05:30:50"
+        },
+        {
+            "source": "ANTARA NEWS",
+            "title": "Pupuk Indonesia siapkan stok 350 ribu ton untuk Sulawesi Maluku Papua",
+            "description": "PT Pupuk Indonesia (Persero) menyiapkan stok cadangan pupuk bersubsidi sebanyak 350 ribu ton untuk wilayah Sulawesi, ...",
+            "url": "https://www.antaranews.com/berita/5776498/pupuk-indonesia-siapkan-stok-350-ribu-ton-untuk-sulawesi-maluku-papua",
+            "image": "https://cdn.antaranews.com/cache/800x533/2026/10/08/185a1971-cba6-4706-a0ce-4c421c0f3f32.jpeg",
+            "pubDate": "2026-10-08 05:29:58"
+        },
+        {
+            "source": "ANTARA NEWS",
+            "title": "PM Malaysia-Presiden Myanmar bertemu bahas repatriasi pengungsi",
+            "description": "Perdana Menteri Malaysia Anwar Ibrahim dan Presiden Myanmar Min Aung Hlaing mengadakan pertemuan empat mata di ...",
+            "url": "https://www.antaranews.com/berita/5776496/pm-malaysia-presiden-myanmar-bertemu-bahas-repatriasi-pengungsi",
+            "image": "https://cdn.antaranews.com/cache/800x533/2026/10/08/photo_2026-10-08-12.45.36.jpeg",
+            "pubDate": "2026-10-08 05:29:16"
+        },
+        {
+            "source": "ANTARA NEWS",
+            "title": "Bahtra Banong ditetapkan sebagai Ketua Panja RUU Pemilu",
+            "description": "Wakil Ketua Komisi II DPR Bahtra Banong ditetapkan sebagai Ketua Panitia Kerja (Panja) Penyusunan Rancangan ...",
+            "url": "https://www.antaranews.com/berita/5776494/bahtra-banong-ditetapkan-sebagai-ketua-panja-ruu-pemilu",
+            "image": "https://cdn.antaranews.com/cache/800x533/2026/10/08/IMG_78667F8CCZ.jpg",
+            "pubDate": "2026-10-08 05:29:06"
+        },
+        {
+            "source": "CNN INDONESIA",
+            "title": "Nasdem Cek Kabar Anggota DPR Tonny Tesar Usul Pemakzulan Gibran",
+            "description": "Wakil Ketua DPR Saan Mustopa akan cek surat usulan pemakzulan Gibran Rakabuming dari anggota DPR asal Nasdem.",
+            "url": "https://www.cnnindonesia.com/nasional/20261008105400-32-1412996/nasdem-cek-kabar-anggota-dpr-tonny-tesar-usul-pemakzulan-gibran",
+            "image": "https://akcdn.detik.net.id/visual/2025/02/24/nasdem-saan-mustopa-415-package-6110-1740363050290_169.jpeg?w=360&amp;q=90",
+            "pubDate": "2026-10-08 04:13:12"
+        },
+        {
+            "source": "CNN INDONESIA",
+            "title": "Istana soal Putusan MK: Ijazah Gibran Bukan Tidak Ada, Belum Ditemukan",
+            "description": "Wamensesneg Bambang Eko Suhariyanto menyatakan Mahkamah Konstitusi dalam putusan tak mengatakan bahwa Gibran tak memiliki ijazah, melainkan tak menemukan.",
+            "url": "https://www.cnnindonesia.com/nasional/20261008103608-32-1412988/istana-soal-putusan-mk-ijazah-gibran-bukan-tidak-ada-belum-ditemukan",
+            "image": "https://akcdn.detik.net.id/visual/2026/10/07/mk-nyatakan-gugatan-ijazah-gibran-tidak-dapat-diterima-1791331202049_169.jpeg?w=360&amp;q=90",
+            "pubDate": "2026-10-08 03:49:20"
+        },
+        {
+            "source": "CNN INDONESIA",
+            "title": "Pramono Targetkan Layanan Tanah DKI Selesai 10 Hari Lewat PERINTIS",
+            "description": "Pramono mengingatkan, kesamaan data, sistem, dan koordinasi penting agar persoalan selesai lebih cepat dengan tetap mematuhi ketentuan hukum dan perpajakan.",
+            "url": "https://www.cnnindonesia.com/nasional/20261008100057-25-1412974/pramono-targetkan-layanan-tanah-dki-selesai-10-hari-lewat-perintis",
+            "image": "https://akcdn.detik.net.id/visual/2026/10/08/pemprov-dki-1791428616842_169.png?w=360&amp;q=90",
+            "pubDate": "2026-10-08 03:23:57"
+        },
+        {
+            "source": "CNN INDONESIA",
+            "title": "GWM Tank Hajar Motor-Mobil dan Gerobak Las di Palmerah, 1 Orang Tewas",
+            "description": "Kecelakaan beruntun di Jalan Kamboja Raya, Jakarta Barat mengakibatkan satu orang tewas dan beberapa kendaraan rusak.",
+            "url": "https://www.cnnindonesia.com/nasional/20261008100837-20-1412977/gwm-tank-hajar-motor-mobil-dan-gerobak-las-di-palmerah-1-orang-tewas",
+            "image": "https://akcdn.detik.net.id/visual/2020/01/22/593b1d3c-6dda-4c99-9401-4c6ac7393ac8_169.jpeg?w=360&amp;q=90",
+            "pubDate": "2026-10-08 03:20:07"
+        },
+        {
+            "source": "CNN INDONESIA",
+            "title": "Kasus Ijazah SMA Wapres Gibran Diadukan ke Bareskrim Polri",
+            "description": "Kuasa hukum pelapor gugatan syarat pendidikan Wapres Gibran resmi mengadukan perkara yang sudah diputuskan MK ke Bareskrim.",
+            "url": "https://www.cnnindonesia.com/nasional/20261008091603-12-1412959/kasus-ijazah-sma-wapres-gibran-diadukan-ke-bareskrim-polri",
+            "image": "https://akcdn.detik.net.id/visual/2026/10/07/mk-nyatakan-gugatan-ijazah-gibran-tidak-dapat-diterima-1791333992599_169.jpeg?w=360&amp;q=90",
+            "pubDate": "2026-10-08 03:12:38"
+        },
+        {
             "source": "CNBC INDONESIA",
             "title": "Video: Biaya Haji 2027 Disepakati Rp98,46 Juta",
             "description": "DPR RI bersama Kementerian Haji dan Umrah resmi menyepakati BPIH 2027 sebesar 98,46 juta rupiah per jemaah.",
@@ -39,6 +119,46 @@
             "url": "https://www.cnbcindonesia.com/news/20261008093118-8-774311/video-kejagung-dan-satgas-pkh-serahkan-rp132-triliun-ke-negara",
             "image": "https://awsimages.detik.net.id/visual/2026/10/08/kejagung-dan-satgas-pkh-serahkan-rp132-triliun-ke-negara-1791431167209_169.png?w=1200&amp;q=90",
             "pubDate": "2026-10-08 03:46:16"
+        },
+        {
+            "source": "REPUBLIKA",
+            "title": "Danantara Penetrasi ke Ekosistem Aviasi Timur Tengah",
+            "description": "REPUBLIKA.CO.ID, JAKARTA -- Danantara melalui perusahaan perawatan pesawat, GMF AeroAsia, resmi melebarkan sayap ke ekosistem aviasi Timur Tengah. Bersama Otoritas Penerbangan Sipil Oman (Civil Aviation Authority/CAA), GMF menandatangani perjanjian konsesi...",
+            "url": "https://ekonomi.republika.co.id/berita/tmkldi423/danantara-penetrasi-ke-ekosistem-aviasi-timur-tengah",
+            "image": "https://static.republika.co.id/uploads/images/detailnews/021703600-1776267694-830-556.jpg",
+            "pubDate": "2026-10-08 04:01:00"
+        },
+        {
+            "source": "REPUBLIKA",
+            "title": "Bank BSN Gandeng Persikad dan Persiraja, Bidik Ekonomi Sepak Bola",
+            "description": "REPUBLIKA.CO.ID, JAKARTA – Klub sepak bola mulai dilirik sebagai pintu masuk untuk memperluas layanan keuangan syariah. Aktivitas klub, transaksi suporter, serta usaha kecil di sekitarnya membuka peluang bisnis bagi perbankan.\r\nPT...",
+            "url": "https://sharia.republika.co.id/berita/tmklpx416/bank-bsn-gandeng-persikad-dan-persiraja-bidik-ekonomi-sepak-bola",
+            "image": "https://static.republika.co.id/uploads/images/detailnews/direktur-utama-pt-bank-syariah-nasional-alex-sofjan-noor_261007205124-382.JPG",
+            "pubDate": "2026-10-08 03:58:45"
+        },
+        {
+            "source": "REPUBLIKA",
+            "title": "Prodi PBSI Raih Akreditasi Unggul, Perkuat Kualitas Akademik dan Pengembangan Lulusan",
+            "description": "REPUBLIKA.CO.ID, JAKARTA -- Program Studi Pendidikan Bahasa dan Sastra Indonesia (PBSI) Program Sarjana Universitas Muhammadiyah Jakarta (UMJ) resmi meraih Akreditasi Unggul berdasarkan Keputusan Lembaga Akreditasi Mandiri Kependidikan (LAMDIK) Nomor...",
+            "url": "https://news.republika.co.id/berita/tmkkud423/prodi-pbsi-raih-akreditasi-unggul-perkuat-kualitas-akademik-dan-pengembangan-lulusan",
+            "image": "https://static.republika.co.id/uploads/images/detailnews/_261008103838-660.png",
+            "pubDate": "2026-10-08 03:45:00"
+        },
+        {
+            "source": "REPUBLIKA",
+            "title": "Pemerintah dan DPR Rampungkan Perpres Ojol, Ini Bocorannya",
+            "description": "REPUBLIKA.CO.ID, JAKARTA -- Pemerintah dan DPR menyepakati pengaturan ekosistem transportasi daring atau ojek daring (ojol) yang akan dituangkan dalam Peraturan Presiden (Perpres). Regulasi tersebut mencakup biaya platform sebesar 8 persen,...",
+            "url": "https://ekonomi.republika.co.id/berita/tmkku3416/pemerintah-dan-dpr-rampungkan-perpres-ojol-ini-bocorannya",
+            "image": "https://static.republika.co.id/uploads/images/detailnews/046369200-1747653569-830-556.jpg",
+            "pubDate": "2026-10-08 03:39:39"
+        },
+        {
+            "source": "REPUBLIKA",
+            "title": "BPKH Siap Salurkan Rp 8,83 Triliun untuk Haji 2027   ",
+            "description": "REPUBLIKA.CO.ID, JAKARTA -- Badan Pengelola Keuangan Haji (BPKH) menyiapkan Nilai Manfaat sebesar Rp 8,83 triliun untuk mendukung penyelenggaraan ibadah haji 1448 Hijriah/2027 Masehi. Dana tersebut siap disalurkan sesuai kesepakatan pemerintah...",
+            "url": "https://ekonomi.republika.co.id/berita/tmkkg6423/bpkh-siap-salurkan-rp-883-triliun-untuk-haji-2027",
+            "image": "https://static.republika.co.id/uploads/images/detailnews/064229900-1780243616-830-556.jpg",
+            "pubDate": "2026-10-08 03:35:00"
         }
     ]
 }
