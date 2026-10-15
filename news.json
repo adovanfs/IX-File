@@ -1,3 +1,164 @@
 {
-    "articles": []
+    "articles": [
+        {
+            "source": "ANTARA NEWS",
+            "title": "Ma'ruf Amin ungkap harapan atas implementasi wajib halal 18 Oktober",
+            "description": "Wakil Presiden (Wapres) ke-13 RI Ma’ruf Amin berharap penerapan wajib halal yang mulai berlaku pada 18 Oktober ...",
+            "url": "https://www.antaranews.com/berita/5787945/maruf-amin-ungkap-harapan-atas-implementasi-wajib-halal-18-oktober",
+            "image": "https://cdn.antaranews.com/cache/800x533/2026/10/15/1000185607.jpg",
+            "pubDate": "2026-10-15 06:49:01"
+        },
+        {
+            "source": "ANTARA NEWS",
+            "title": "Sekretaris Wantimpres M. Qodari melayat ke rumah duka Martha Tilaar",
+            "description": "Putra Martha Tilaar, Bryan Tilaar, mengatakan Sekretaris Dewan Pertimbangan Presiden (Wantimpres), Muhammad Qodari, ...",
+            "url": "https://www.antaranews.com/berita/5787941/sekretaris-wantimpres-m-qodari-melayat-ke-rumah-duka-martha-tilaar",
+            "image": "https://cdn.antaranews.com/cache/800x533/2026/10/15/IMG_20261015_122126.jpg",
+            "pubDate": "2026-10-15 06:48:56"
+        },
+        {
+            "source": "ANTARA NEWS",
+            "title": "PB ESI perkuat organisasi untuk tingkatkan prestasi esports Indonesia",
+            "description": "Pengurus Besar Esports Indonesia (PB ESI) memperkuat fondasi organisasi dan tata kelola olahraga elektronik melalui ...",
+            "url": "https://www.antaranews.com/berita/5787937/pb-esi-perkuat-organisasi-untuk-tingkatkan-prestasi-esports-indonesia",
+            "image": "https://cdn.antaranews.com/cache/800x533/2026/10/15/IMG_5517.jpeg",
+            "pubDate": "2026-10-15 06:48:19"
+        },
+        {
+            "source": "ANTARA NEWS",
+            "title": "Android manfaatkan Gemini AI untuk beri peringatan pesan penipuan",
+            "description": "Google mengumumkan serangkaian fitur perlindungan baru yang salah satunya adalah fitur berbasis kecerdasan artifisial ...",
+            "url": "https://www.antaranews.com/berita/5787933/android-manfaatkan-gemini-ai-untuk-beri-peringatan-pesan-penipuan",
+            "image": "https://cdn.antaranews.com/cache/800x533/2026/05/13/InShot_20260513_111703035.jpg",
+            "pubDate": "2026-10-15 06:45:46"
+        },
+        {
+            "source": "ANTARA NEWS",
+            "title": "Pangdam XXI Mayjen Kristomei merapat ke Istana jelang isu pelantikan",
+            "description": "Panglima Kodam (Pangdam) XXI/Radin Inten Mayjen TNI Kristomei Sianturi mendatangi Istana Kepresidenan, Jakarta, Kamis, ...",
+            "url": "https://www.antaranews.com/berita/5787929/pangdam-xxi-mayjen-kristomei-merapat-ke-istana-jelang-isu-pelantikan",
+            "image": "https://cdn.antaranews.com/cache/800x533/2026/10/15/1000041341.jpg",
+            "pubDate": "2026-10-15 06:44:54"
+        },
+        {
+            "source": "CNN INDONESIA",
+            "title": "Baru Dilantik, Kepala BNPB Bakal Cek Lagi Luasan Karhutla RI",
+            "description": "Kepala BNPB Letjen TNI Kristomei Sianturi yang baru dilantik Prabowo mengaku akan cek luasan kebakaran hutan di Indonesia.",
+            "url": "https://www.cnnindonesia.com/nasional/20261015162701-32-1415761/baru-dilantik-kepala-bnpb-bakal-cek-lagi-luasan-karhutla-ri",
+            "image": "https://akcdn.detik.net.id/visual/2026/10/15/kristomei-sianturi-1792051947735_169.png?w=360&amp;q=90",
+            "pubDate": "2026-10-15 09:59:33"
+        },
+        {
+            "source": "CNN INDONESIA",
+            "title": "Batam Dibekap Asap, Penerbangan di Bandara Hang Nadim Ditunda",
+            "description": "Penerbangan di Bandara Internasional Hang Nadim Batam mengalami penundaan akibat kabut asap. PT BIB berkoordinasi untuk memantau situasi dan hak penumpang.",
+            "url": "https://www.cnnindonesia.com/nasional/20261015144611-20-1415711/batam-dibekap-asap-penerbangan-di-bandara-hang-nadim-ditunda",
+            "image": "https://akcdn.detik.net.id/visual/2026/09/15/kualitas-udara-di-kepri-memburuk-ribuan-orang-terpapar-ispa-imbas-kabut-asap-1789452426148_169.jpeg?w=360&amp;q=90",
+            "pubDate": "2026-10-15 09:49:27"
+        },
+        {
+            "source": "CNN INDONESIA",
+            "title": "Kesan Lurah dan Juri usai Ikuti Babak Final Benyamin S Award",
+            "description": "Para lurah dan juri Benyamin S Award (BSA) 2026 2026 berbagi kesan usai menjalani final di Jakarta, Kamis (15/10).",
+            "url": "https://www.cnnindonesia.com/nasional/20261015164020-20-1415769/kesan-lurah-dan-juri-usai-ikuti-babak-final-benyamin-s-award",
+            "image": "https://akcdn.detik.net.id/visual/2026/10/15/kesan-lurah-dan-juri-usai-ikuti-babak-final-benyamin-s-award-1792054726881_169.jpeg?w=360&amp;q=90",
+            "pubDate": "2026-10-15 09:48:00"
+        },
+        {
+            "source": "CNN INDONESIA",
+            "title": "Sosok Satyawan Pudyatmoko, Kepala Badan Pengelola Gambut",
+            "description": "Presiden Prabowo Subianto melantik Satyawan Pudyatmoko sebagai Kepala BPGMN. Satyawan, akademisi berpengalaman, fokus pada konservasi dan perubahan iklim.",
+            "url": "https://www.cnnindonesia.com/nasional/20261015124850-20-1415650/sosok-satyawan-pudyatmoko-kepala-badan-pengelola-gambut",
+            "image": "https://akcdn.detik.net.id/visual/2026/10/15/satyawan-pudyatmoko-1792039460144_169.jpeg?w=360&amp;q=90",
+            "pubDate": "2026-10-15 09:38:21"
+        },
+        {
+            "source": "CNN INDONESIA",
+            "title": "Udara di Sumut Memburuk Imbas Karhutla, Kasus ISPA Tembus 89.638",
+            "description": "Kualitas udara di Sumatera Utara memburuk akibat kebakaran hutan dan lahan atau karhutla dengan 89.638 kasus ISPA tercatat.",
+            "url": "https://www.cnnindonesia.com/nasional/20261015141916-20-1415695/udara-di-sumut-memburuk-imbas-karhutla-kasus-ispa-tembus-89638",
+            "image": "https://akcdn.detik.net.id/visual/2026/10/09/karhutla-di-palangka-raya-semakin-meluas-1791542386361_169.jpeg?w=360&amp;q=90",
+            "pubDate": "2026-10-15 09:29:55"
+        },
+        {
+            "source": "CNBC INDONESIA",
+            "title": "Wakil Menteri Kena OTT, Ketahuan Transaksi Dana Suap",
+            "description": "Wakil Menteri (Wamen) Perindustrian Irak, Nasser Kadhim Jabr, ditangkap karena dugaan suap. Ini menambah daftar pejabat korupsi di Irak.",
+            "url": "https://www.cnbcindonesia.com/news/20261015122356-4-776442/wakil-menteri-kena-ott-ketahuan-transaksi-dana-suap",
+            "image": "https://awsimages.detik.net.id/visual/2026/10/15/wakil-menteri-perindustrian-dan-mineral-irak-nasser-kadhim-jabr-1792056385187_169.jpeg?w=1200&amp;q=90",
+            "pubDate": "2026-10-15 10:05:00"
+        },
+        {
+            "source": "CNBC INDONESIA",
+            "title": "Tiba-Tiba Presiden Prabowo Copot Kepala BNPB Suharyanto",
+            "description": "Presiden Prabowo Subianto mencopot Suharyanto dari jabatan Kepala BNPB dan mengangkat Letjen Kristomei Sianturi sebagai penggantinya.",
+            "url": "https://www.cnbcindonesia.com/news/20261015165444-4-776576/tiba-tiba-presiden-prabowo-copot-kepala-bnpb-suharyanto",
+            "image": "https://awsimages.detik.net.id/visual/2026/10/15/presiden-prabowo-subianto-melantik-empat-wakil-menteri-baru-serta-tiga-pejabat-badan-baru-dalam-kabinet-merah-putih-pelantikan-1792053614786_169.png?w=1200&amp;q=90",
+            "pubDate": "2026-10-15 10:01:20"
+        },
+        {
+            "source": "CNBC INDONESIA",
+            "title": "Suroso Isnandar Jadi Dirut Baru PLN, Ini Tanggapan Bahlil",
+            "description": "Menko Hilirisasi dan Transisi Energi Bahlil Lahadalia buka suara atas pergantian Dirut PLN",
+            "url": "https://www.cnbcindonesia.com/news/20261015165231-4-776572/suroso-isnandar-jadi-dirut-baru-pln-ini-tanggapan-bahlil",
+            "image": "https://awsimages.detik.net.id/visual/2026/10/15/menko-hilirisasi-dan-transisi-energi-sekaligus-menteri-esdm-bahlil-lahadalia-memberikan-bantuan-pasang-baru-listrik-bpbl-di-mu-1792057411388_169.jpeg?w=1200&amp;q=90",
+            "pubDate": "2026-10-15 09:55:53"
+        },
+        {
+            "source": "CNBC INDONESIA",
+            "title": "Potret Uji Coba MBG Cara Baru: Dibagi Langsung Pasukan Serba Tertutup",
+            "description": "Uji coba MBG prasmanan di lima SPPG Polri di Jakarta bertujuan mengurangi sisa makanan dan melatih siswa mengambil makanan sesuai kebutuhan.",
+            "url": "https://www.cnbcindonesia.com/news/20261015155457-7-776533/potret-uji-coba-mbg-cara-baru-dibagi-langsung-pasukan-serba-tertutup",
+            "image": "https://awsimages.detik.net.id/visual/2026/10/15/sejumlah-siswa-di-jakarta-mengikuti-uji-coba-penyajian-makan-bergizi-gratis-mbg-dengan-sistem-prasmanan-di-sekolah-smp-kemala--1792054481689_169.jpeg?w=1200&amp;q=90",
+            "pubDate": "2026-10-15 09:43:00"
+        },
+        {
+            "source": "CNBC INDONESIA",
+            "title": "RI Impor LPG 8 Juta Ton, Bahlil: Banyak Sekali Devisa Kita Keluar",
+            "description": "Menko Hilirisasi dan Transisi Energi Bahlil Lahadalia menyebut impor LPG Indonesia kini diperkirakan mencapai 7-8 juta ton per tahun.",
+            "url": "https://www.cnbcindonesia.com/news/20261015163329-4-776554/ri-impor-lpg-8-juta-ton-bahlil-banyak-sekali-devisa-kita-keluar",
+            "image": "https://awsimages.detik.net.id/visual/2026/10/15/menteri-koordinator-bidang-hilirisasi-dan-transisi-energi-sekaligus-menteri-esdm-bahlil-lahadalia-saat-menyampaikan-sambutan-d-1792051228689_169.png?w=1200&amp;q=90",
+            "pubDate": "2026-10-15 09:37:44"
+        },
+        {
+            "source": "REPUBLIKA",
+            "title": "Gubernur Jateng Elus Dada Dapat Kabar Bupati Klaten Kena OTT KPK",
+            "description": "REPUBLIKA.CO.ID, SEMARANG -- Gubernur Jateng Ahmad Luthfi mengaku prihatin mendengar kabar tentang dugaan OTT terhadap Bupati Klaten Hamenang Wajar Ismoyo. Namun, dia mengaku belum menerima pernyataan resmi dari KPK.\r\n“Pertama saya...",
+            "url": "https://rejogja.republika.co.id/berita/tmy20v282/gubernur-jateng-elus-dada-dapat-kabar-bupati-klaten-kena-ott-kpk",
+            "image": "https://static.republika.co.id/uploads/images/detailnews/wakil-gubernur-jawa-tengah-jateng-taj-yasin-mengungkapkan-korban_260929172837-705.jpeg",
+            "pubDate": "2026-10-15 10:19:43"
+        },
+        {
+            "source": "REPUBLIKA",
+            "title": "Industri Kripto Global Bahas Stablecoin hingga Peran Investor Institusi",
+            "description": "REPUBLIKA.CO.ID, JAKARTA – Perkembangan stablecoin, tokenisasi aset, dan keterlibatan institusi keuangan menjadi perhatian industri kripto global. Ketiga isu tersebut menjadi pembahasan dalam forum TOKEN2049 Singapore 2026 yang mempertemukan pelaku industri...",
+            "url": "https://ekonomi.republika.co.id/berita/tmy1mr416/industri-kripto-global-bahas-stablecoin-hingga-peran-investor-institusi",
+            "image": "https://static.republika.co.id/uploads/images/detailnews/_260930090139-964.png",
+            "pubDate": "2026-10-15 10:11:15"
+        },
+        {
+            "source": "REPUBLIKA",
+            "title": "Saudi Klaim Cegat Misil Dekat Madinah, Houthi Bantah Luncurkan Serangan",
+            "description": "REPUBLIKA.CO.ID, RIYADH – Mayor Jenderal Turki Al-Maliki, juru bicara koalisi Saudi mengatakan bahwa sebuah rudal jelajah telah dicegat dan dihancurkan di wilayah Madinah pada Kamis. Kelompok Ansarallah Houthi menyangkal...",
+            "url": "https://news.republika.co.id/berita/tmy1it393/saudi-klaim-cegat-misil-dekat-madinah-houthi-bantah-luncurkan-serangan",
+            "image": "https://static.republika.co.id/uploads/images/detailnews/_260612131414-270.png",
+            "pubDate": "2026-10-15 10:08:53"
+        },
+        {
+            "source": "REPUBLIKA",
+            "title": "Pangkat Dua Wamenhan Dinaikkan Jadi Marsekal Yusuf Jauhari dan Jenderal Richard",
+            "description": "REPUBLIKA.CO.ID, JAKARTA -- Presiden RI melantik empat wakil menteri negara Kabinet Merah Putih dalam sisa masa jabatan periode tahun 2024–2029 di Istana Negara, Jakarta Pusat, Kamis (15/10/2026). Pengangkatan para...",
+            "url": "https://news.republika.co.id/berita/tmy1e0484/pangkat-dua-wamenhan-dinaikkan-jadi-marsekal-yusuf-jauhari-dan-jenderal-richard",
+            "image": "https://static.republika.co.id/uploads/images/detailnews/_261015165812-461.png",
+            "pubDate": "2026-10-15 10:06:00"
+        },
+        {
+            "source": "REPUBLIKA",
+            "title": "Raja Spanyol Kunjungi Ceuta untuk Pertama Kali, Berziarah ke Pemakaman Muslim",
+            "description": "REPUBLIKA.CO.ID, MADRID— Raja Spanyol Felipe VI bersama istrinya, Ratu Letizia, mengunjungi kota Ceuta pada Selasa (13/10/2026).\r\nDalam kunjungan tersebut, mereka singgah di pemakaman Muslim tempat sejumlah besar korban dari sekitar 100...",
+            "url": "https://news.republika.co.id/berita/tmy17o320/raja-spanyol-kunjungi-ceuta-untuk-pertama-kali-berziarah-ke-pemakaman-muslim",
+            "image": "https://static.republika.co.id/uploads/images/detailnews/045701300-1719302235-830-556.jpg",
+            "pubDate": "2026-10-15 10:02:12"
+        }
+    ]
 }
