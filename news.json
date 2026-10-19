@@ -42,6 +42,22 @@
         },
         {
             "source": "CNN INDONESIA",
+            "title": "Mengintip Aturan Larangan Bakar Sampah Usai Warga Depok Cekcok",
+            "description": "Warga Depok berselisih akibat pembakaran sampah, memicu pemagaran jalan. Pelanggaran dapat dikenai sanksi.",
+            "url": "https://www.cnnindonesia.com/nasional/20261013184909-20-1414946/mengintip-aturan-larangan-bakar-sampah-usai-warga-depok-cekcok",
+            "image": "https://akcdn.detik.net.id/visual/2023/08/04/ilustrasi-bakar-sampah_169.jpeg?w=360&amp;q=90",
+            "pubDate": "2026-10-19 22:10:09"
+        },
+        {
+            "source": "CNN INDONESIA",
+            "title": "Polisi Gerebek Lapak Narkoba di Kebun Cengkeh, Dua Orang Ditangkap",
+            "description": "Petugas gabungan menggerebek lapak narkoba di Kebun Cengkeh, Ambon. Dua pelaku ditangkap, satu buron.",
+            "url": "https://www.cnnindonesia.com/nasional/20261019175030-12-1417203/polisi-gerebek-lapak-narkoba-di-kebun-cengkeh-dua-orang-ditangkap",
+            "image": "https://akcdn.detik.net.id/visual/2020/07/24/ilustrasi-narkoba_169.jpeg?w=360&amp;q=90",
+            "pubDate": "2026-10-19 21:00:36"
+        },
+        {
+            "source": "CNN INDONESIA",
             "title": "Silmy Karim Segera Diadili Terkait Dugaan Pemerasan dan Gratifikasi",
             "description": "Mantan Wakil Menteri Imigrasi dan Pemasyarakatan Silmy Karim beserta tujuh orang lainnya akan diadili atas kasus dugaan pemerasan dan penerimaan gratifikasi.",
             "url": "https://www.cnnindonesia.com/nasional/20261019180214-12-1417208/silmy-karim-segera-diadili-terkait-dugaan-pemerasan-dan-gratifikasi",
@@ -65,20 +81,36 @@
             "pubDate": "2026-10-19 18:10:26"
         },
         {
-            "source": "CNN INDONESIA",
-            "title": "PSI Umumkan Kader Baru Eks Ketua DPW NasDem Papua Barat Daya",
-            "description": "PSI mengumumkan Petrus Kasihiw, mantan Ketua DPW NasDem, sebagai kader baru dan Ketua DPW PSI Papua Barat Daya.",
-            "url": "https://www.cnnindonesia.com/nasional/20261019234959-32-1417288/psi-umumkan-kader-baru-eks-ketua-dpw-nasdem-papua-barat-daya",
-            "image": "https://akcdn.detik.net.id/visual/2025/09/28/bingkai-sepekan-edisi-29-september-2025-1759058477658_169.jpeg?w=360&amp;q=90",
-            "pubDate": "2026-10-19 17:10:59"
+            "source": "REPUBLIKA",
+            "title": "PSIM Yogyakarta Usung Misi Bangkit Hadapi Bhayangkara FC yang Tak Terkalahkan",
+            "description": "REPUBLIKA.CO.ID, BANDAR LAMPUNG, – PSIM Yogyakarta mengusung misi kebangkitan saat menghadapi Bhayangkara FC pada pekan keenam BRI Super League di Stadion Sumpah Pemuda, Bandar Lampung, Selasa malam. Pelatih interim...",
+            "url": "https://news.republika.co.id/berita/tn6d56530000/psim-yogyakarta-usung-misi-bangkit-hadapi-bhayangkara-fc-yang-tak-terkalahkan",
+            "image": "https://static.republika.co.id/uploads/images/detailnews/073607500-1792447242-PSM-menang-atas-PSIM-161026-af.jpg",
+            "pubDate": "2026-10-19 22:00:42"
         },
         {
-            "source": "CNN INDONESIA",
-            "title": "Pemerintah Diminta Perkuat Koordinasi Lintas Sektoral Atasi Karhutla",
-            "description": "WALHI menekankan pentingnya tanggung jawab lintas sektor dalam penanganan karhutla.",
-            "url": "https://www.cnnindonesia.com/nasional/20261019212047-20-1417275/pemerintah-diminta-perkuat-koordinasi-lintas-sektoral-atasi-karhutla",
-            "image": "https://akcdn.detik.net.id/visual/2026/10/19/perpanjangan-status-tanggap-darurat-karhutla-palangka-raya-1792387298732_169.jpeg?w=360&amp;q=90",
-            "pubDate": "2026-10-19 17:00:48"
+            "source": "REPUBLIKA",
+            "title": "Dewa United Incar Kemenangan Kandang Lawan Persijap Jepara Demi Puncak Klasemen",
+            "description": "REPUBLIKA.CO.ID, SERANG, – Dewa United membidik kemenangan saat menjamu Persijap Jepara pada laga pekan keenam BRI Super League di Stadion Internasional Banten, Serang, Selasa. Pelatih Dewa United, Osmar Loss,...",
+            "url": "https://news.republika.co.id/berita/tn6cfe2130000/dewa-united-incar-kemenangan-kandang-lawan-persijap-jepara-demi-puncak-klasemen",
+            "image": "https://static.republika.co.id/uploads/images/detailnews/084270200-1792446314-persib-bandung-imbang-melawan.jpg",
+            "pubDate": "2026-10-19 21:45:14"
+        },
+        {
+            "source": "REPUBLIKA",
+            "title": "Bhayangkara FC Waspadai Kebangkitan PSIM Yogyakarta di Liga 1",
+            "description": "REPUBLIKA.CO.ID, BANDAR LAMPUNG, – Pelatih Bhayangkara FC, Oscar Bruzon, menegaskan timnya tidak akan memandang sebelah mata PSIM Yogyakarta saat kedua tim bentrok pada pekan keenam BRI Super League di...",
+            "url": "https://news.republika.co.id/berita/tn6bqg7130000/bhayangkara-fc-waspadai-kebangkitan-psim-yogyakarta-di-liga-1",
+            "image": "https://static.republika.co.id/uploads/images/detailnews/056388400-1792445416-Madura-United-Imbang-Lawan-Bha.jpg",
+            "pubDate": "2026-10-19 21:30:16"
+        },
+        {
+            "source": "REPUBLIKA",
+            "title": "Kendaraan Listrik di Sulselrabar Tumbuh 53,7 Persen, PLN Operasikan 84 SPKLU",
+            "description": "REPUBLIKA.CO.ID, MAKASSAR, – PT PLN Unit Induk Distribusi Sulawesi Selatan, Sulawesi Tenggara, dan Sulawesi Barat (UID Sulselrabar) mencatat pertumbuhan signifikan kendaraan listrik di wilayah kerjanya. Hingga Oktober 2026, jumlah...",
+            "url": "https://news.republika.co.id/berita/tn6b8r1130000/kendaraan-listrik-di-sulselrabar-tumbuh-537-persen-pln-operasikan-84-spklu",
+            "image": "https://static.republika.co.id/uploads/images/detailnews/086001900-1792444779-1003217042jpg.jpg",
+            "pubDate": "2026-10-19 21:19:39"
         },
         {
             "source": "REPUBLIKA",
@@ -87,38 +119,6 @@
             "url": "https://news.republika.co.id/berita/tn6ajn6730000/pemprov-kepri-bangun-dua-ruas-jalan-via-inpres-jalan-daerah-2026-anggaran-rp30-miliar",
             "image": "https://static.republika.co.id/uploads/images/detailnews/013917800-1792443875-inbound3675768533571948953jpg.jpg",
             "pubDate": "2026-10-19 21:04:35"
-        },
-        {
-            "source": "REPUBLIKA",
-            "title": "Produksi Pertanian Sidrap Melonjak 48% Berkat Program Electrifying Agriculture PLN",
-            "description": "REPUBLIKA.CO.ID, MAKASSAR, – Pemerintah Kabupaten Sidrap, Sulawesi Selatan, mengumumkan peningkatan signifikan produksi pertanian berkat implementasi program electrifying agriculture (EA) oleh PT PLN. Program ini memanfaatkan listrik untuk mengoperasikan pompa...",
-            "url": "https://news.republika.co.id/berita/tn693h4730000/produksi-pertanian-sidrap-melonjak-48-berkat-program-electrifying-agriculture-pln",
-            "image": "https://static.republika.co.id/uploads/images/detailnews/057691900-1792441997-1003217109jpg.jpg",
-            "pubDate": "2026-10-19 20:33:17"
-        },
-        {
-            "source": "REPUBLIKA",
-            "title": "Satgas FPU 7 Polri Tuntaskan Misi Perdamaian di Afrika Tengah Tanpa Insiden Besar",
-            "description": "REPUBLIKA.CO.ID, JAKARTA, – Satuan Tugas Formed Police Unit (FPU) 7 Kepolisian Negara Republik Indonesia (Polri) berhasil menyelesaikan masa tugasnya selama satu tahun di bawah misi United Nations Multidimensional Integrated...",
-            "url": "https://news.republika.co.id/berita/tn68e02330000/satgas-fpu-7-polri-tuntaskan-misi-perdamaian-di-afrika-tengah-tanpa-insiden-besar",
-            "image": "https://static.republika.co.id/uploads/images/detailnews/076010100-1792441080-1000093145jpg.jpg",
-            "pubDate": "2026-10-19 20:18:00"
-        },
-        {
-            "source": "REPUBLIKA",
-            "title": "Pemkab Sidoarjo dan BPN Tuntaskan Pengukuran Lahan Flyover Gedangan",
-            "description": "REPUBLIKA.CO.ID, SIDOARJO, – Pemerintah Kabupaten (Pemkab) Sidoarjo, Jawa Timur, bersama Badan Pertanahan Nasional (BPN) telah menyelesaikan pengukuran titik koordinat sebagai tahapan awal pengadaan lahan untuk pembangunan flyover Gedangan. Proyek...",
-            "url": "https://news.republika.co.id/berita/tn67oi2630000/pemkab-sidoarjo-dan-bpn-tuntaskan-pengukuran-lahan-flyover-gedangan",
-            "image": "https://static.republika.co.id/uploads/images/detailnews/088761300-1792440162-ANTARA-2026-10-16T202647054j.jpeg",
-            "pubDate": "2026-10-19 20:02:42"
-        },
-        {
-            "source": "REPUBLIKA",
-            "title": "Irau Malinau ke-12 Siap Digelar, 190 UMKM Ramaikan HUT ke-27",
-            "description": "REPUBLIKA.CO.ID, MALINAU, – Pemerintah Kabupaten (Pemkab) Malinau, Kalimantan Utara, siap menyelenggarakan Irau Malinau ke-12 dalam rangka Hari Ulang Tahun (HUT) ke-27 Kabupaten Malinau. Perhelatan tahun ini akan berlangsung selama...",
-            "url": "https://news.republika.co.id/berita/tn66zd6130000/irau-malinau-ke12-siap-digelar-190-umkm-ramaikan-hut-ke27",
-            "image": "https://static.republika.co.id/uploads/images/detailnews/055955000-1792439257-1000627476jpg.jpg",
-            "pubDate": "2026-10-19 19:47:37"
         }
     ]
 }
