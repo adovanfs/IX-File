@@ -2,6 +2,14 @@
     "articles": [
         {
             "source": "ANTARA NEWS",
+            "title": "Polda Sulteng periksa dua polisi terkait dugaan penyalahgunaan BBM",
+            "description": "ANTARA - Bidang Profesi dan Pengamanan Kepolisian Daerah Sulawesi Tengah memeriksa dua anggota Polri terkait dugaan ...",
+            "url": "https://www.antaranews.com/video/5798021/polda-sulteng-periksa-dua-polisi-terkait-dugaan-penyalahgunaan-bbm",
+            "image": "https://img.antaranews.com/cache/800x533/2026/10/Screenshot-2026-10-20-020722.jpg",
+            "pubDate": "2026-10-19 19:17:42"
+        },
+        {
+            "source": "ANTARA NEWS",
             "title": "BNPB dorong pembangunan huntara secara swadaya di Palue, NTT",
             "description": "ANTARA - BNPB bersama pemerintah daerah mempercepat pembangunan hunian sementara atau huntara bagi warga terdampak ...",
             "url": "https://www.antaranews.com/video/5798017/bnpb-dorong-pembangunan-huntara-secara-swadaya-di-palue-ntt",
@@ -33,12 +41,12 @@
             "pubDate": "2026-10-19 18:38:32"
         },
         {
-            "source": "ANTARA NEWS",
-            "title": "Bocah perundung tewaskan teman penyandang disabilitas dibina 6 bulan",
-            "description": "ANTARA - Satu dari dua anak terduga pelaku perundungan yang menewaskan seorang teman sebayanya penyandang disabilitas ...",
-            "url": "https://www.antaranews.com/video/5797989/bocah-perundung-tewaskan-teman-penyandang-disabilitas-dibina-6-bulan",
-            "image": "https://img.antaranews.com/cache/800x533/2026/10/Screenshot-2026-10-20-002912.jpg",
-            "pubDate": "2026-10-19 18:29:52"
+            "source": "CNN INDONESIA",
+            "title": "Silmy Karim Segera Diadili Terkait Dugaan Pemerasan dan Gratifikasi",
+            "description": "Mantan Wakil Menteri Imigrasi dan Pemasyarakatan Silmy Karim beserta tujuh orang lainnya akan diadili atas kasus dugaan pemerasan dan penerimaan gratifikasi.",
+            "url": "https://www.cnnindonesia.com/nasional/20261019180214-12-1417208/silmy-karim-segera-diadili-terkait-dugaan-pemerasan-dan-gratifikasi",
+            "image": "https://akcdn.detik.net.id/visual/2026/08/27/pemeriksaan-tersangka-silmy-karim-1787823403354_169.jpeg?w=360&amp;q=90",
+            "pubDate": "2026-10-19 20:00:30"
         },
         {
             "source": "CNN INDONESIA",
@@ -73,52 +81,44 @@
             "pubDate": "2026-10-19 17:00:48"
         },
         {
-            "source": "CNN INDONESIA",
-            "title": "KSP Sigit Buka Suara soal Kasus Polisi Tembak Polisi di Pondok Cabe",
-            "description": "Kepala Staf Kepresidenan (KSP) Listyo Sigit merespons kasus penembakan Bharatu Laurentius oleh Bharada Andika di Pondok Cabe.",
-            "url": "https://www.cnnindonesia.com/nasional/20261015153228-32-1415734/ksp-sigit-buka-suara-soal-kasus-polisi-tembak-polisi-di-pondok-cabe",
-            "image": "https://akcdn.detik.net.id/visual/2020/06/25/listyo-sigit-prabowo_169.jpeg?w=360&amp;q=90",
-            "pubDate": "2026-10-19 14:45:37"
+            "source": "REPUBLIKA",
+            "title": "Irau Malinau ke-12 Siap Digelar, 190 UMKM Ramaikan HUT ke-27",
+            "description": "REPUBLIKA.CO.ID, MALINAU, – Pemerintah Kabupaten (Pemkab) Malinau, Kalimantan Utara, siap menyelenggarakan Irau Malinau ke-12 dalam rangka Hari Ulang Tahun (HUT) ke-27 Kabupaten Malinau. Perhelatan tahun ini akan berlangsung selama...",
+            "url": "https://news.republika.co.id/berita/tn66zd6130000/irau-malinau-ke12-siap-digelar-190-umkm-ramaikan-hut-ke27",
+            "image": "https://static.republika.co.id/uploads/images/detailnews/055955000-1792439257-1000627476jpg.jpg",
+            "pubDate": "2026-10-19 19:47:37"
         },
         {
             "source": "REPUBLIKA",
-            "title": "Pemprov Papua Tengah Kembangkan PPI Pomako Mimika Demi Genjot PAD",
-            "description": "REPUBLIKA.CO.ID, NABIRE, – Pemerintah Provinsi (Pemprov) Papua Tengah berencana mengembangkan fasilitas Pelabuhan Pendaratan Ikan (PPI) Pomako di Kabupaten Mimika. Langkah strategis ini bertujuan untuk meningkatkan pelayanan terhadap kapal perikanan...",
-            "url": "https://news.republika.co.id/berita/tn63eg5930000/pemprov-papua-tengah-kembangkan-ppi-pomako-mimika-demi-genjot-pad",
-            "image": "https://static.republika.co.id/uploads/images/detailnews/010699100-1792434616-WhatsApp-Image-2026-10-14-at-2.jpeg",
-            "pubDate": "2026-10-19 18:30:16"
+            "title": "16 Peneliti BRIN Masuk Daftar Top 2% Scientists 2026, Terbanyak Kelima di Indonesia",
+            "description": "REPUBLIKA.CO.ID, JAKARTA, – Sebanyak 16 ilmuwan yang berafiliasi dengan Badan Riset dan Inovasi Nasional (BRIN) berhasil masuk dalam daftar bergengsi Top 2% Scientists 2026 untuk kategori dampak ilmiah tahun...",
+            "url": "https://news.republika.co.id/berita/tn669v1730000/16-peneliti-brin-masuk-daftar-top-2-scientists-2026-terbanyak-kelima-di-indonesia",
+            "image": "https://static.republika.co.id/uploads/images/detailnews/064360400-1792438339-konpers-perkembangan-situasi-t.jpg",
+            "pubDate": "2026-10-19 19:32:19"
         },
         {
             "source": "REPUBLIKA",
-            "title": "Wali Kota Singkawang Dorong Pariwisata Berbasis Masyarakat demi Ekonomi Lokal",
-            "description": "REPUBLIKA.CO.ID, SINGKAWANG, – Wali Kota Singkawang, Kalimantan Barat, Tjhai Chui Mie mendorong pengembangan pariwisata berbasis masyarakat sebagai strategi utama menggerakkan ekonomi lokal. Ia menegaskan bahwa manfaat ekonomi dari sektor...",
-            "url": "https://news.republika.co.id/berita/tn62pg530000/wali-kota-singkawang-dorong-pariwisata-berbasis-masyarakat-demi-ekonomi-lokal",
-            "image": "https://static.republika.co.id/uploads/images/detailnews/004071700-1792433716-IMG-20261019-WA0088jpg.jpg",
-            "pubDate": "2026-10-19 18:15:16"
+            "title": "BGN Percepat Aktivasi Dapur MBG di Daerah 3T, Insentif Diubah Jadi Rp2.000 per Porsi",
+            "description": "REPUBLIKA.CO.ID, JAKARTA, – Badan Gizi Nasional (BGN) mempercepat aktivasi Unit Pelayanan Pemenuhan Gizi (SPPG) baru di seluruh wilayah tertinggal, terdepan, dan terluar (3T) untuk memperluas jangkauan program Makan Bergizi...",
+            "url": "https://news.republika.co.id/berita/tn65jy9630000/bgn-percepat-aktivasi-dapur-mbg-di-daerah-3t-insentif-diubah-jadi-rp2000-per-porsi",
+            "image": "https://static.republika.co.id/uploads/images/detailnews/050147800-1792437406-zulkiflijpg.jpg",
+            "pubDate": "2026-10-19 19:16:46"
         },
         {
             "source": "REPUBLIKA",
-            "title": "Bulog Medan Genjot Serapan Gabah Petani meski Target Tahunan 112% Terlampaui",
-            "description": "REPUBLIKA.CO.ID, MEDAN, – Perum Bulog Kantor Cabang Medan, Sumatera Utara, terus mengoptimalkan penyerapan gabah kering panen dari petani meskipun realisasinya telah melampaui target tahunan. Langkah ini diambil sebagai upaya...",
-            "url": "https://news.republika.co.id/berita/tn620e3730000/bulog-medan-genjot-serapan-gabah-petani-meski-target-tahunan-112-terlampaui",
-            "image": "https://static.republika.co.id/uploads/images/detailnews/091174300-1792432814-IMG-20261019-WA0151jpg.jpg",
-            "pubDate": "2026-10-19 18:00:14"
+            "title": "Misi Dagang Jatim-Aceh Cetak Transaksi Fantastis Tembus Rp1 Triliun",
+            "description": "REPUBLIKA.CO.ID, BANDA ACEH, – Nilai transaksi dalam program misi dagang ke-27 Pemerintah Provinsi Jawa Timur ke Aceh mencatatkan angka fantastis, menembus lebih dari Rp1 triliun. Capaian ini diumumkan langsung...",
+            "url": "https://news.republika.co.id/berita/tn64u57030000/misi-dagang-jatimaceh-cetak-transaksi-fantastis-tembus-rp1-triliun",
+            "image": "https://static.republika.co.id/uploads/images/detailnews/032334000-1792436477-175802jpg.jpg",
+            "pubDate": "2026-10-19 19:01:17"
         },
         {
             "source": "REPUBLIKA",
-            "title": "Tim Indonesia Waspadai Situasi Paris Jelang French Open 2026, Leo/Daniel Kembali Tampil",
-            "description": "REPUBLIKA.CO.ID, JAKARTA — Tim bulu tangkis Indonesia tetap fokus mempersiapkan diri menghadapi French Open 2026 di tengah situasi keamanan Paris yang memanas akibat demonstrasi besar dan sejumlah kericuhan. Manajer Tim...",
-            "url": "https://news.republika.co.id/berita/tn61zm348/tim-indonesia-waspadai-situasi-paris-jelang-french-open-2026-leodaniel-kembali-tampil",
-            "image": "https://static.republika.co.id/uploads/images/detailnews/030948800-1790680812-830-556.jpg",
-            "pubDate": "2026-10-19 17:59:46"
-        },
-        {
-            "source": "REPUBLIKA",
-            "title": "Menpora Erick Harap Medali Emas Maulana Rifky di Asian Para Games 2026 Jadi Pemicu Emas Berikutnya",
-            "description": "REPUBLIKA.CO.ID, JAKARTA — Maulana Rifky Yavianda mempersembahkan medali emas pertama bagi Indonesia di Asian Para Games Aichi-Nagoya 2026. Atlet para renang itu menjadi yang tercepat pada nomor 100 meter gaya...",
-            "url": "https://news.republika.co.id/berita/tn61rm348/menpora-erick-harap-medali-emas-maulana-rifky-di-asian-para-games-2026-jadi-pemicu-emas-berikutnya",
-            "image": "https://static.republika.co.id/uploads/images/detailnews/041920200-1792417033-830-556.jpg",
-            "pubDate": "2026-10-19 17:54:58"
+            "title": "Jogging Track Stadion Sarengat Batang Senilai Rp9,2 Miliar Rampung Oktober 2026",
+            "description": "REPUBLIKA.CO.ID, BATANG, – Pemerintah Kabupaten Batang, Jawa Tengah, memastikan pembangunan lintasan khusus untuk lari santai dan jalan kaki (jogging track) di Stadion Moh Sarengat senilai Rp9,26 miliar akan selesai...",
+            "url": "https://news.republika.co.id/berita/tn644k3030000/jogging-track-stadion-sarengat-batang-senilai-rp92-miliar-rampung-oktober-2026",
+            "image": "https://static.republika.co.id/uploads/images/detailnews/031554900-1792435556-WhatsApp-Image-2026-10-19-at-1.jpeg",
+            "pubDate": "2026-10-19 18:45:56"
         }
     ]
 }
