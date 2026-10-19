@@ -2,6 +2,22 @@
     "articles": [
         {
             "source": "ANTARA NEWS",
+            "title": "Persijap Jepara bidik poin kontra Dewa United",
+            "description": "Pelatih interim Persijap Jepara Antonio Claudio mengatakan tim asuhannya membidik poin kontra Dewa United pada pekan ...",
+            "url": "https://www.antaranews.com/berita/5798033/persijap-jepara-bidik-poin-kontra-dewa-united",
+            "image": "https://img.antaranews.com/cache/800x533/2026/10/16/isenmulang-fc-menang-atas-persijap-jepara-2886309.jpg",
+            "pubDate": "2026-10-19 21:16:11"
+        },
+        {
+            "source": "ANTARA NEWS",
+            "title": "Tim gabungan gelar razia narkoba di tempat hiburan malam Semarang",
+            "description": "ANTARA - Tim Gabungan dari unsur Polri, TNI, dan Badan Narkotika Nasional (BNN) Provinsi Jawa Tengah melakukan razia ...",
+            "url": "https://www.antaranews.com/video/5798025/tim-gabungan-gelar-razia-narkoba-di-tempat-hiburan-malam-semarang",
+            "image": "https://img.antaranews.com/cache/800x533/2026/10/Screenshot-2026-10-20-031239.jpg",
+            "pubDate": "2026-10-19 20:32:35"
+        },
+        {
+            "source": "ANTARA NEWS",
             "title": "Polda Sulteng periksa dua polisi terkait dugaan penyalahgunaan BBM",
             "description": "ANTARA - Bidang Profesi dan Pengamanan Kepolisian Daerah Sulawesi Tengah memeriksa dua anggota Polri terkait dugaan ...",
             "url": "https://www.antaranews.com/video/5798021/polda-sulteng-periksa-dua-polisi-terkait-dugaan-penyalahgunaan-bbm",
@@ -23,22 +39,6 @@
             "url": "https://www.antaranews.com/video/5798013/dudung-pemerintah-sambut-baik-bantuan-luar-negeri-tangani-karhutla",
             "image": "https://img.antaranews.com/cache/800x533/2026/10/Screenshot-2026-10-20-005901.jpg",
             "pubDate": "2026-10-19 18:42:21"
-        },
-        {
-            "source": "ANTARA NEWS",
-            "title": "OJK perkuat pasar modal dengan transparansi dan penegakan hukum",
-            "description": "ANTARA - Otoritas Jasa Keuangan (OJK) berkomitmen untuk terus melanjutkan reformasi pasar modal Indonesia dengan ...",
-            "url": "https://www.antaranews.com/video/5798005/ojk-perkuat-pasar-modal-dengan-transparansi-dan-penegakan-hukum",
-            "image": "https://img.antaranews.com/cache/800x533/2026/10/Screenshot-2026-10-20-004841.jpg",
-            "pubDate": "2026-10-19 18:40:21"
-        },
-        {
-            "source": "ANTARA NEWS",
-            "title": "BI pastikan stabilitas rupiah terjaga di tengah volatilitas global",
-            "description": "ANTARA - Gubernur Bank Indonesia Destry Damayanti, Senin (19/10), menyebut bahwa stabilitas rupiah tetap terjaga dalam ...",
-            "url": "https://www.antaranews.com/video/5797997/bi-pastikan-stabilitas-rupiah-terjaga-di-tengah-volatilitas-global",
-            "image": "https://img.antaranews.com/cache/800x533/2026/10/Screenshot-2026-10-20-003851.jpg",
-            "pubDate": "2026-10-19 18:38:32"
         },
         {
             "source": "CNN INDONESIA",
@@ -82,43 +82,43 @@
         },
         {
             "source": "REPUBLIKA",
+            "title": "Pemprov Kepri Bangun Dua Ruas Jalan via Inpres Jalan Daerah 2026, Anggaran Rp30 Miliar",
+            "description": "REPUBLIKA.CO.ID, TANJUNGPINANG, – Pemerintah Provinsi Kepulauan Riau (Pemprov Kepri) akan membangun dua ruas jalan melalui proyek Inpres Jalan Daerah (IJD) pada tahun 2026. Proyek strategis ini mengantongi anggaran sekitar...",
+            "url": "https://news.republika.co.id/berita/tn6ajn6730000/pemprov-kepri-bangun-dua-ruas-jalan-via-inpres-jalan-daerah-2026-anggaran-rp30-miliar",
+            "image": "https://static.republika.co.id/uploads/images/detailnews/013917800-1792443875-inbound3675768533571948953jpg.jpg",
+            "pubDate": "2026-10-19 21:04:35"
+        },
+        {
+            "source": "REPUBLIKA",
+            "title": "Produksi Pertanian Sidrap Melonjak 48% Berkat Program Electrifying Agriculture PLN",
+            "description": "REPUBLIKA.CO.ID, MAKASSAR, – Pemerintah Kabupaten Sidrap, Sulawesi Selatan, mengumumkan peningkatan signifikan produksi pertanian berkat implementasi program electrifying agriculture (EA) oleh PT PLN. Program ini memanfaatkan listrik untuk mengoperasikan pompa...",
+            "url": "https://news.republika.co.id/berita/tn693h4730000/produksi-pertanian-sidrap-melonjak-48-berkat-program-electrifying-agriculture-pln",
+            "image": "https://static.republika.co.id/uploads/images/detailnews/057691900-1792441997-1003217109jpg.jpg",
+            "pubDate": "2026-10-19 20:33:17"
+        },
+        {
+            "source": "REPUBLIKA",
+            "title": "Satgas FPU 7 Polri Tuntaskan Misi Perdamaian di Afrika Tengah Tanpa Insiden Besar",
+            "description": "REPUBLIKA.CO.ID, JAKARTA, – Satuan Tugas Formed Police Unit (FPU) 7 Kepolisian Negara Republik Indonesia (Polri) berhasil menyelesaikan masa tugasnya selama satu tahun di bawah misi United Nations Multidimensional Integrated...",
+            "url": "https://news.republika.co.id/berita/tn68e02330000/satgas-fpu-7-polri-tuntaskan-misi-perdamaian-di-afrika-tengah-tanpa-insiden-besar",
+            "image": "https://static.republika.co.id/uploads/images/detailnews/076010100-1792441080-1000093145jpg.jpg",
+            "pubDate": "2026-10-19 20:18:00"
+        },
+        {
+            "source": "REPUBLIKA",
+            "title": "Pemkab Sidoarjo dan BPN Tuntaskan Pengukuran Lahan Flyover Gedangan",
+            "description": "REPUBLIKA.CO.ID, SIDOARJO, – Pemerintah Kabupaten (Pemkab) Sidoarjo, Jawa Timur, bersama Badan Pertanahan Nasional (BPN) telah menyelesaikan pengukuran titik koordinat sebagai tahapan awal pengadaan lahan untuk pembangunan flyover Gedangan. Proyek...",
+            "url": "https://news.republika.co.id/berita/tn67oi2630000/pemkab-sidoarjo-dan-bpn-tuntaskan-pengukuran-lahan-flyover-gedangan",
+            "image": "https://static.republika.co.id/uploads/images/detailnews/088761300-1792440162-ANTARA-2026-10-16T202647054j.jpeg",
+            "pubDate": "2026-10-19 20:02:42"
+        },
+        {
+            "source": "REPUBLIKA",
             "title": "Irau Malinau ke-12 Siap Digelar, 190 UMKM Ramaikan HUT ke-27",
             "description": "REPUBLIKA.CO.ID, MALINAU, – Pemerintah Kabupaten (Pemkab) Malinau, Kalimantan Utara, siap menyelenggarakan Irau Malinau ke-12 dalam rangka Hari Ulang Tahun (HUT) ke-27 Kabupaten Malinau. Perhelatan tahun ini akan berlangsung selama...",
             "url": "https://news.republika.co.id/berita/tn66zd6130000/irau-malinau-ke12-siap-digelar-190-umkm-ramaikan-hut-ke27",
             "image": "https://static.republika.co.id/uploads/images/detailnews/055955000-1792439257-1000627476jpg.jpg",
             "pubDate": "2026-10-19 19:47:37"
-        },
-        {
-            "source": "REPUBLIKA",
-            "title": "16 Peneliti BRIN Masuk Daftar Top 2% Scientists 2026, Terbanyak Kelima di Indonesia",
-            "description": "REPUBLIKA.CO.ID, JAKARTA, – Sebanyak 16 ilmuwan yang berafiliasi dengan Badan Riset dan Inovasi Nasional (BRIN) berhasil masuk dalam daftar bergengsi Top 2% Scientists 2026 untuk kategori dampak ilmiah tahun...",
-            "url": "https://news.republika.co.id/berita/tn669v1730000/16-peneliti-brin-masuk-daftar-top-2-scientists-2026-terbanyak-kelima-di-indonesia",
-            "image": "https://static.republika.co.id/uploads/images/detailnews/064360400-1792438339-konpers-perkembangan-situasi-t.jpg",
-            "pubDate": "2026-10-19 19:32:19"
-        },
-        {
-            "source": "REPUBLIKA",
-            "title": "BGN Percepat Aktivasi Dapur MBG di Daerah 3T, Insentif Diubah Jadi Rp2.000 per Porsi",
-            "description": "REPUBLIKA.CO.ID, JAKARTA, – Badan Gizi Nasional (BGN) mempercepat aktivasi Unit Pelayanan Pemenuhan Gizi (SPPG) baru di seluruh wilayah tertinggal, terdepan, dan terluar (3T) untuk memperluas jangkauan program Makan Bergizi...",
-            "url": "https://news.republika.co.id/berita/tn65jy9630000/bgn-percepat-aktivasi-dapur-mbg-di-daerah-3t-insentif-diubah-jadi-rp2000-per-porsi",
-            "image": "https://static.republika.co.id/uploads/images/detailnews/050147800-1792437406-zulkiflijpg.jpg",
-            "pubDate": "2026-10-19 19:16:46"
-        },
-        {
-            "source": "REPUBLIKA",
-            "title": "Misi Dagang Jatim-Aceh Cetak Transaksi Fantastis Tembus Rp1 Triliun",
-            "description": "REPUBLIKA.CO.ID, BANDA ACEH, – Nilai transaksi dalam program misi dagang ke-27 Pemerintah Provinsi Jawa Timur ke Aceh mencatatkan angka fantastis, menembus lebih dari Rp1 triliun. Capaian ini diumumkan langsung...",
-            "url": "https://news.republika.co.id/berita/tn64u57030000/misi-dagang-jatimaceh-cetak-transaksi-fantastis-tembus-rp1-triliun",
-            "image": "https://static.republika.co.id/uploads/images/detailnews/032334000-1792436477-175802jpg.jpg",
-            "pubDate": "2026-10-19 19:01:17"
-        },
-        {
-            "source": "REPUBLIKA",
-            "title": "Jogging Track Stadion Sarengat Batang Senilai Rp9,2 Miliar Rampung Oktober 2026",
-            "description": "REPUBLIKA.CO.ID, BATANG, – Pemerintah Kabupaten Batang, Jawa Tengah, memastikan pembangunan lintasan khusus untuk lari santai dan jalan kaki (jogging track) di Stadion Moh Sarengat senilai Rp9,26 miliar akan selesai...",
-            "url": "https://news.republika.co.id/berita/tn644k3030000/jogging-track-stadion-sarengat-batang-senilai-rp92-miliar-rampung-oktober-2026",
-            "image": "https://static.republika.co.id/uploads/images/detailnews/031554900-1792435556-WhatsApp-Image-2026-10-19-at-1.jpeg",
-            "pubDate": "2026-10-19 18:45:56"
         }
     ]
 }
