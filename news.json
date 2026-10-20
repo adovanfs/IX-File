@@ -1,84 +1,76 @@
 {
     "articles": [
         {
-            "source": "ANTARA NEWS",
-            "title": "Wisata sejarah hingga kuliner halal di Ruins of St Paul’s Makau",
-            "description": "ANTARA - Tak hanya berisi gedung-gedung kasino dan hotel mewah, Makau ternyata memiliki pilihan wisata yang beragam. ...",
-            "url": "https://www.antaranews.com/video/5798069/wisata-sejarah-hingga-kuliner-halal-di-ruins-of-st-pauls-makau",
-            "image": "https://img.antaranews.com/cache/800x533/2026/10/THUMB.jpeg",
-            "pubDate": "2026-10-19 23:42:53"
+            "source": "CNBC INDONESIA",
+            "title": "2 Tahun Memimpin, Prabowo Berkomitmen Dukung UMKM Entaskan Kemiskinan",
+            "description": "Pemerintah terus berkomitmen memberdayakan UMKM melalui perlindungan sosial dan kebijakan pajak.",
+            "url": "https://www.cnbcindonesia.com/news/20261019172346-4-777607/2-tahun-memimpin-prabowo-berkomitmen-dukung-umkm-entaskan-kemiskinan",
+            "image": "https://awsimages.detik.net.id/visual/2026/10/19/ilustrasi-umkm-1792405991570_169.png?w=1200&amp;q=90",
+            "pubDate": "2026-10-20 00:33:47"
         },
         {
-            "source": "ANTARA NEWS",
-            "title": "Emas Asian Para Games, asa Rifky untuk tampil di Paralimpiade",
-            "description": "ANTARA - Medali emas pertama Indonesia di Asian Para Games Aichi-Nagoya 2026 menjadi pencapaian penting bagi atlet para ...",
-            "url": "https://www.antaranews.com/video/5798029/emas-asian-para-games-asa-rifky-untuk-tampil-di-paralimpiade",
-            "image": "https://img.antaranews.com/cache/800x533/2026/10/thumbnail_2.jpeg",
-            "pubDate": "2026-10-19 23:39:08"
+            "source": "CNBC INDONESIA",
+            "title": "Banjir Bandang Seret Mobil dan Rendam Rumah, 2 Orang Tewas",
+            "description": "Bencana ini menewaskan sedikitnya dua orang, merendam permukiman, serta menyeret sejumlah mobil hingga membuat jalanan dipenuhi lumpur.",
+            "url": "https://www.cnbcindonesia.com/news/20261019202528-7-777646/banjir-bandang-seret-mobil-dan-rendam-rumah-2-orang-tewas",
+            "image": "https://awsimages.detik.net.id/visual/2026/10/19/europe-weatherspain-1792416305434_169.jpeg?w=1200&amp;q=90",
+            "pubDate": "2026-10-20 00:25:00"
         },
         {
-            "source": "ANTARA NEWS",
-            "title": "Mewujudkan pelindungan anak di ruang digital lewat PP TUNAS",
-            "description": "Pelindungan anak di ruang digital menjadi salah satu agenda penting dalam dua tahun pemerintahan Presiden Prabowo ...",
-            "url": "https://www.antaranews.com/berita/5798109/mewujudkan-pelindungan-anak-di-ruang-digital-lewat-pp-tunas",
-            "image": "https://img.antaranews.com/cache/800x533/2026/10/16/IMG-20261016-WA0017_1.jpg",
-            "pubDate": "2026-10-19 23:29:31"
+            "source": "CNBC INDONESIA",
+            "title": "Investasi RI Tembus Rp528,7 T di Kuartal III, Sektor Logam Jadi Juara",
+            "description": "Menteri BKPM Rosan melaporkan realisasi investasi RI mencapai Rp528,7 triliun di kuartal III-2026, tumbuh 7,6% yoy. PMA mendominasi dengan Rp270,2 triliun.",
+            "url": "https://www.cnbcindonesia.com/news/20261020063011-4-777673/investasi-ri-tembus-rp5287-t-di-kuartal-iii-sektor-logam-jadi-juara",
+            "image": "https://awsimages.detik.net.id/visual/2026/10/19/ceo-danantara-rosan-roeslani-1792412326898_169.png?w=1200&amp;q=90",
+            "pubDate": "2026-10-20 00:05:11"
         },
         {
-            "source": "ANTARA NEWS",
-            "title": "Membaca Neo Perang Stalingrad ala Abad ke-21: Perang Kognitif",
-            "description": "Siapa yang tidak tahu Pertempuran Stalingrad?\n\nPeristiwa ini tercatat dalam sejarah sebagai salah satu pertempuran ...",
-            "url": "https://www.antaranews.com/berita/5798105/membaca-neo-perang-stalingrad-ala-abad-ke-21-perang-kognitif",
-            "image": "https://img.antaranews.com/cache/800x533/2026/10/19/Perang-Kognitif.jpg",
-            "pubDate": "2026-10-19 23:24:31"
+            "source": "CNBC INDONESIA",
+            "title": "Guterres-Menlu Tata Kompak Sentil Hak Veto DK PBB, Sebut Ini",
+            "description": "Sekjen PBB Guterres dan Menlu RI Tata soroti penyalahgunaan hak veto di DK PBB. Keduanya dorong reformasi untuk perdamaian dan representasi global.",
+            "url": "https://www.cnbcindonesia.com/news/20261020004534-4-777668/guterres-menlu-tata-kompak-sentil-hak-veto-dk-pbb-sebut-ini",
+            "image": "https://awsimages.detik.net.id/visual/2026/10/18/menteri-luar-negeri-ri-arrmanatha-nasir-menyambut-kedatangan-sekretaris-jenderal-perserikatan-bangsa-bangsa-pbb-antonio-guterr-1792312443543_169.jpeg?w=1200&amp;q=90",
+            "pubDate": "2026-10-19 23:55:00"
         },
         {
-            "source": "ANTARA NEWS",
-            "title": "Seskab Teddy ungkap realisasi investasi capai Rp3.923 triliun",
-            "description": "Sekretaris Kabinet Teddy Indra Wijaya mempublikasikan capaian realisasi investasi nasional sebesar Rp3.923 triliun demi ...",
-            "url": "https://www.antaranews.com/berita/5798101/seskab-teddy-ungkap-realisasi-investasi-capai-rp3923-triliun",
-            "image": "https://img.antaranews.com/cache/800x533/2026/10/20/1000454294.jpg",
-            "pubDate": "2026-10-19 23:16:53"
+            "source": "CNBC INDONESIA",
+            "title": "Menkeu, BI, OJK, Danantara Buka-bukaan Kondisi RI Terkini",
+            "description": "Menkeu Suahasil melaporkan kondisi ekonomi Indonesia yang resilien kepada Presiden. Fokus pada belanja negara dan pengendalian inflasi pangan untuk stabilitas.",
+            "url": "https://www.cnbcindonesia.com/news/20261020060804-4-777670/menkeu-bi-ojk-danantara-buka-bukaan-kondisi-ri-terkini",
+            "image": "https://awsimages.detik.net.id/visual/2026/10/19/menteri-keuangan-ri-1792412802274_169.png?w=1200&amp;q=90",
+            "pubDate": "2026-10-19 23:50:31"
         },
         {
-            "source": "CNN INDONESIA",
-            "title": "Mengintip Aturan Larangan Bakar Sampah Usai Warga Depok Cekcok",
-            "description": "Warga Depok berselisih akibat pembakaran sampah, memicu pemagaran jalan. Pelanggaran dapat dikenai sanksi.",
-            "url": "https://www.cnnindonesia.com/nasional/20261013184909-20-1414946/mengintip-aturan-larangan-bakar-sampah-usai-warga-depok-cekcok",
-            "image": "https://akcdn.detik.net.id/visual/2023/08/04/ilustrasi-bakar-sampah_169.jpeg?w=360&amp;q=90",
-            "pubDate": "2026-10-19 22:10:09"
+            "source": "REPUBLIKA",
+            "title": "Menilik Rekrutmen Petugas Haji Indonesia",
+            "description": "REPUBLIKA.CO.ID, JAKARTA —  Kemenhaj memperkuat kualitas petugas haji untuk tahun 2027 melalui proses seleksi terukur bersama Badan Kepegawaian Negara (BKN), serta pembekalan selama satu bulan di asrama haji guna mempersiapkan...",
+            "url": "https://khazanah.republika.co.id/berita/tn6jlw483/menilik-rekrutmen-petugas-haji-indonesia",
+            "image": "https://static.republika.co.id/uploads/images/detailnews/056463200-1782369210-830-556.jpg",
+            "pubDate": "2026-10-20 00:20:20"
         },
         {
-            "source": "CNN INDONESIA",
-            "title": "Polisi Gerebek Lapak Narkoba di Kebun Cengkeh, Dua Orang Ditangkap",
-            "description": "Petugas gabungan menggerebek lapak narkoba di Kebun Cengkeh, Ambon. Dua pelaku ditangkap, satu buron.",
-            "url": "https://www.cnnindonesia.com/nasional/20261019175030-12-1417203/polisi-gerebek-lapak-narkoba-di-kebun-cengkeh-dua-orang-ditangkap",
-            "image": "https://akcdn.detik.net.id/visual/2020/07/24/ilustrasi-narkoba_169.jpeg?w=360&amp;q=90",
-            "pubDate": "2026-10-19 21:00:36"
+            "source": "REPUBLIKA",
+            "title": "Menko Bahlil: Cadangan Nasional Pertalite 16 Hari, Pertamax 20 Hari",
+            "description": "REPUBLIKA.CO.ID, JAKARTA -- Pemerintah berupaya menjaga ketersediaan dan kelancaran distribusi bahan bakar minyak (BBM) nasional di tengah lonjakan harga minyak dunia. Menko Bidang Hilirisasi dan Transisi Energi sekaligus Menteri Energi dan Sumber...",
+            "url": "https://ekonomi.republika.co.id/berita/tn6iq1484/menko-bahlil-cadangan-nasional-pertalite-16-hari-pertamax-20-hari",
+            "image": "https://static.republika.co.id/uploads/images/detailnews/_250908164608-772.png",
+            "pubDate": "2026-10-20 00:01:13"
         },
         {
-            "source": "CNN INDONESIA",
-            "title": "Silmy Karim Segera Diadili Terkait Dugaan Pemerasan dan Gratifikasi",
-            "description": "Mantan Wakil Menteri Imigrasi dan Pemasyarakatan Silmy Karim beserta tujuh orang lainnya akan diadili atas kasus dugaan pemerasan dan penerimaan gratifikasi.",
-            "url": "https://www.cnnindonesia.com/nasional/20261019180214-12-1417208/silmy-karim-segera-diadili-terkait-dugaan-pemerasan-dan-gratifikasi",
-            "image": "https://akcdn.detik.net.id/visual/2026/08/27/pemeriksaan-tersangka-silmy-karim-1787823403354_169.jpeg?w=360&amp;q=90",
-            "pubDate": "2026-10-19 20:00:30"
+            "source": "REPUBLIKA",
+            "title": "Es Kering Jadi Bahan Semai dalam Operasi Modifikasi Cuaca di Sumsel",
+            "description": "REPUBLIKA.CO.ID, PALEMBANG -- Prajurit TNI Angkatan Udara menyusun boks berisi dry ice atau es kering sebagai bahan semai untuk Operasi Modifikasi Cuaca (OMC) di dalam pesawat Cassa C-212 di Base...",
+            "url": "https://visual.republika.co.id/berita/tn5v9x375/es-kering-jadi-bahan-semai-dalam-operasi-modifikasi-cuaca-di-sumsel",
+            "image": "https://static.republika.co.id/uploads/images/detailnews/099577800-1792422710-830-556.jpg",
+            "pubDate": "2026-10-20 00:00:00"
         },
         {
-            "source": "CNN INDONESIA",
-            "title": "Prabowo Beri Arahan Khusus ke KSP Listyo Sigit",
-            "description": "Presiden Prabowo mengarahkan KSP Listyo Sigit untuk mengawal program prioritas nasional. Fokus pada pengawasan.",
-            "url": "https://www.cnnindonesia.com/nasional/20261015141147-32-1415692/prabowo-beri-arahan-khusus-ke-ksp-listyo-sigit",
-            "image": "https://akcdn.detik.net.id/visual/2026/10/01/listyo-sigit-prabowo-dan-dedi-prasetyo-1790840786978_169.png?w=360&amp;q=90",
-            "pubDate": "2026-10-19 19:00:34"
-        },
-        {
-            "source": "CNN INDONESIA",
-            "title": "Walhi Minta Penegakan Hukum Karhutla Tak Cuma Sasar Pelaku di Lapangan",
-            "description": "Walhi mendesak penegakan hukum karhutla melibatkan korporasi dan aparat. Penanganan harus jelas dan terkoordinasi.",
-            "url": "https://www.cnnindonesia.com/nasional/20261019234426-20-1417287/walhi-minta-penegakan-hukum-karhutla-tak-cuma-sasar-pelaku-di-lapangan",
-            "image": "https://akcdn.detik.net.id/visual/2026/10/19/perpanjangan-status-tanggap-darurat-karhutla-palangka-raya-1792387298732_169.jpeg?w=360&amp;q=90",
-            "pubDate": "2026-10-19 18:10:26"
+            "source": "REPUBLIKA",
+            "title": "Pemprov Jabar Raih Forest and Land Recovery Berkat Program Citarum Harum",
+            "description": "REPUBLIKA.CO.ID, JAKARTA -- Pemerintah Provinsi Jawa Barat (Pemprov Jabar) meraih penghargaan ESG Now Awards 2026 kategori Forest and Land Recovery Initiative yang digelar Republika di Hotel Borobudur, Jakarta Pusat, Senin (19/10/2026)....",
+            "url": "https://rejabar.republika.co.id/berita/tn6h0c484/pemprov-jabar-raih-forest-and-land-recovery-berkat-program-citarum-harum",
+            "image": "https://static.republika.co.id/uploads/images/detailnews/pemimpin-redaksi-republika-andi-muhyiddin-memberikan-sambutan-saat-acara_261019105934-216.jpg",
+            "pubDate": "2026-10-19 23:24:12"
         },
         {
             "source": "REPUBLIKA",
@@ -87,38 +79,6 @@
             "url": "https://khazanah.republika.co.id/berita/tn6gfk430/houthi-ingatkan-wilayah-udara-arab-saudi-tidak-aman-kecuali-makkah-dan-madinah",
             "image": "https://static.republika.co.id/uploads/images/detailnews/seorang-prajurit-houthi-berdiri-di-dekat-bendera-yaman-di_261014161217-698.jpg",
             "pubDate": "2026-10-19 23:11:44"
-        },
-        {
-            "source": "REPUBLIKA",
-            "title": "Ferry Juliantono Terpilih Jadi Presiden Lajnah Tanfidziyah SI",
-            "description": "REPUBLIKA.CO.ID, JAKARTA -- Menteri Koperasi (Menkop) Ferry Juliantono terpilih secara aklamasi sebagai Presiden Lajnah Tanfidziyah Pimpinan Pusat Syarikat Islam (PP SI) masa jihad 2026-2031. Dia ditetapkan dalam Majelis Tahkim/Kongres Nasional ke-42 SI...",
-            "url": "https://news.republika.co.id/berita/tn6fz7484/ferry-juliantono-terpilih-jadi-presiden-lajnah-tanfidziyah-si",
-            "image": "https://static.republika.co.id/uploads/images/detailnews/_261020054215-198.png",
-            "pubDate": "2026-10-19 23:01:55"
-        },
-        {
-            "source": "REPUBLIKA",
-            "title": "Jacques Menou: Jenderal Prancis yang Masuk Islam ",
-            "description": "REPUBLIKA.CO.ID, PARIS -- Kisah Jenderal Prancis Jacques Menou, yang masuk Islam dan dikenal dengan nama Abdullah Menou, merupakan salah satu kisah manusia yang paling menarik dalam sejarah ekspedisi militer...",
-            "url": "https://khazanah.republika.co.id/berita/tn6fpb430/jacques-menou-jenderal-prancis-yang-masuk-islam",
-            "image": "https://static.republika.co.id/uploads/images/detailnews/jacques_261020055401-847.jpg",
-            "pubDate": "2026-10-19 22:55:59"
-        },
-        {
-            "source": "REPUBLIKA",
-            "title": "Pemerintah Pacu Investasi Berkualitas Lewat Hilirisasi dan Reformasi Perizinan",
-            "description": "REPUBLIKA.CO.ID, JAKARTA, – Pemerintah Indonesia memacu peningkatan realisasi investasi berkualitas melalui penguatan hilirisasi industri dan percepatan layanan perizinan terintegrasi. Langkah strategis ini digulirkan untuk memberikan manfaat nyata bagi pertumbuhan...",
-            "url": "https://news.republika.co.id/berita/tn6f7r6930000/pemerintah-pacu-investasi-berkualitas-lewat-hilirisasi-dan-reformasi-perizinan",
-            "image": "https://static.republika.co.id/uploads/images/detailnews/043264400-1792449927-1000454231jpg.jpg",
-            "pubDate": "2026-10-19 22:45:27"
-        },
-        {
-            "source": "REPUBLIKA",
-            "title": "OJK Lapor Presiden RI. Jumlah Investor Pasar Modal 32,7 Juta SID",
-            "description": "REPUBLIKA.CO.ID, JAKARTA -- Otoritas Jasa Keuangan (OJK) berusaha terus melanjutkan reformasi pasar modal Indonesia, terutama dalam aspek transparansi, likuiditas, dan penegakan hukum terhadap berbagai bentuk pelanggaran. Ketua Dewan Komisioner OJK,...",
-            "url": "https://news.republika.co.id/berita/tn6f2m484/ojk-lapor-presiden-ri-jumlah-investor-pasar-modal-327-juta-sid",
-            "image": "https://static.republika.co.id/uploads/images/detailnews/_261020053527-343.png",
-            "pubDate": "2026-10-19 22:42:22"
         }
     ]
 }
