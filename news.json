@@ -1,3 +1,164 @@
 {
-    "articles": []
+    "articles": [
+        {
+            "source": "ANTARA NEWS",
+            "title": "Poliran, program Kapolri untuk atasi pengangguran dan keamanan",
+            "description": "Kapolri Jenderal Pol. Suyudi Ario Seto menyiapkan program Polisi Peduli Pengangguran (Poliran) guna mengatasi masalah ...",
+            "url": "https://www.antaranews.com/berita/5821839/poliran-program-kapolri-untuk-atasi-pengangguran-dan-keamanan",
+            "image": "https://img.antaranews.com/cache/800x533/2026/10/30/1000094153.jpg",
+            "pubDate": "2026-10-30 10:16:29"
+        },
+        {
+            "source": "ANTARA NEWS",
+            "title": "Wamendagri: Generasi muda harus memahami konstitusi",
+            "description": "Wakil Menteri Dalam Negeri Akhmad Wiyagus mengatakan bahwa generasi muda Indonesia harus memahami konstitusi untuk ...",
+            "url": "https://www.antaranews.com/berita/5821835/wamendagri-generasi-muda-harus-memahami-konstitusi",
+            "image": "https://img.antaranews.com/cache/800x533/2026/10/30/2c7cf48b-1f8e-40db-b177-e2364b4f6a25.jpeg",
+            "pubDate": "2026-10-30 10:14:17"
+        },
+        {
+            "source": "ANTARA NEWS",
+            "title": "KPK sita dokumen usai geledah Bea Cukai Semarang dan Jawa Tengah",
+            "description": "Komisi Pemberantasan Korupsi (KPK) menyita sejumlah dokumen seusai menggeledah Kantor Bea Cukai Semarang, serta Kantor ...",
+            "url": "https://www.antaranews.com/berita/5821831/kpk-sita-dokumen-usai-geledah-bea-cukai-semarang-dan-jawa-tengah",
+            "image": "https://img.antaranews.com/cache/800x533/2026/10/28/1001266984.jpg",
+            "pubDate": "2026-10-30 10:14:04"
+        },
+        {
+            "source": "ANTARA NEWS",
+            "title": "Terapi suara jadi tren yang mulai berkembang di industri kebugaran",
+            "description": "Sound healing atau yang dikenal sebagai terapi suara kini menjadi sebuah tren yang mulai berkembang di dalam industri ...",
+            "url": "https://www.antaranews.com/berita/5821827/terapi-suara-jadi-tren-yang-mulai-berkembang-di-industri-kebugaran",
+            "image": "https://img.antaranews.com/cache/800x533/2026/10/30/WhatsApp-Image-2026-10-30-at-12.07.51.jpeg",
+            "pubDate": "2026-10-30 10:10:46"
+        },
+        {
+            "source": "ANTARA NEWS",
+            "title": "UKMTO: Satu kapal tanker terbakar di Selat Hormuz",
+            "description": "Sebuah kapal tanker terbakar di Selat Hormuz, lepas pantai Oman, setelah diserang perahu kecil bermuatan bahan peledak ...",
+            "url": "https://www.antaranews.com/berita/5821823/ukmto-satu-kapal-tanker-terbakar-di-selat-hormuz",
+            "image": "https://img.antaranews.com/cache/800x533/2026/09/11/thumbs_b_c_c76ee67caf4c3cc8eaab8d58688253b8.jpg",
+            "pubDate": "2026-10-30 10:10:12"
+        },
+        {
+            "source": "CNN INDONESIA",
+            "title": "Pramono Akan Rapat di Seluruh Kecamatan di Jakarta Mulai November",
+            "description": "Gubernur DKI Jakarta Pramono Anung akan menggelar rapat di seluruh kecamatan yang ada di Jakarta mulai November ini.",
+            "url": "https://www.cnnindonesia.com/nasional/20261030173023-20-1421567/pramono-akan-rapat-di-seluruh-kecamatan-di-jakarta-mulai-november",
+            "image": "https://akcdn.detik.net.id/visual/2026/10/30/benyamin-s-award-2026-1793351331304_169.jpeg?w=360&amp;q=90",
+            "pubDate": "2026-10-30 10:35:00"
+        },
+        {
+            "source": "CNN INDONESIA",
+            "title": "Dari Budaya Jadi Sejahtera, Lurah Sukabumi Utara Menangkan BSA 2026",
+            "description": "Lurah Sukabumi Utara Ali Syahidin berhasil memenangkan kelurahan dengan kategori sejahtera dalam Benyamin S Award 2026.",
+            "url": "https://www.cnnindonesia.com/nasional/20261030172914-20-1421565/dari-budaya-jadi-sejahtera-lurah-sukabumi-utara-menangkan-bsa-2026",
+            "image": "https://akcdn.detik.net.id/visual/2026/10/30/lurah-sukabumi-utara-menangkan-bsa-2026-1793356171766_169.jpeg?w=360&amp;q=90",
+            "pubDate": "2026-10-30 10:32:32"
+        },
+        {
+            "source": "CNN INDONESIA",
+            "title": "Prabowo: Jangan Kita Ulangi Kesalahan Pendahulu Kita",
+            "description": "Prabowo menekankan pentingnya belajar dari sejarah dengan tidak mengulangi kesalahan pendahulu saat meresmikan SMA Taruna Nusantara.",
+            "url": "https://www.cnnindonesia.com/nasional/20261030165348-32-1421547/prabowo-jangan-kita-ulangi-kesalahan-pendahulu-kita",
+            "image": "https://akcdn.detik.net.id/visual/2026/10/29/presiden-prabowo-pimpin-siswa-sd-baca-teks-sumpah-pemuda-1793237331567_169.jpeg?w=360&amp;q=90",
+            "pubDate": "2026-10-30 10:25:50"
+        },
+        {
+            "source": "CNN INDONESIA",
+            "title": "Lurah Utan Kayu Selatan Ungkap Kunci Raih Benyamin S Award 2026",
+            "description": "Lurah Utan Kayu Selatan Ria Handayani mengungkap inovasi menjadi kunci wilayahnya menang kategori Nyaman dalam ajang Benyamin S Award (BSA) 2026.",
+            "url": "https://www.cnnindonesia.com/nasional/20261030171712-20-1421562/lurah-utan-kayu-selatan-ungkap-kunci-raih-benyamin-s-award-2026",
+            "image": "https://akcdn.detik.net.id/visual/2026/10/30/lurah-utan-kayu-selatan-ria-handayani-1793355125280_169.jpeg?w=360&amp;q=90",
+            "pubDate": "2026-10-30 10:19:53"
+        },
+        {
+            "source": "CNN INDONESIA",
+            "title": "KPK Geledah Bea Cukai Semarang, Sita Uang Tunai",
+            "description": "KPK menggeledah kantor bea cukai Semarang dan kantor wilayah Jawa Tengah, dan menyita uang tunai yang masih dihitung nominalnya.",
+            "url": "https://www.cnnindonesia.com/nasional/20261030164551-12-1421544/kpk-geledah-bea-cukai-semarang-sita-uang-tunai",
+            "image": "https://akcdn.detik.net.id/visual/2026/07/03/kpk-tangkap-bupati-langkat-1783062372856_169.jpeg?w=360&amp;q=90",
+            "pubDate": "2026-10-30 10:15:22"
+        },
+        {
+            "source": "CNBC INDONESIA",
+            "title": "Mantap! Kementan Ungkap RI Punya Varietas Padi Kebal Keracunan Besi",
+            "description": "Kementerian Pertanian luncurkan varietas unggul padi yang tahan lahan sulit. Inovasi ini mendukung produktivitas dan mekanisasi pertanian di Indonesia.",
+            "url": "https://www.cnbcindonesia.com/news/20261030160154-4-780992/mantap-kementan-ungkap-ri-punya-varietas-padi-kebal-keracunan-besi",
+            "image": "https://awsimages.detik.net.id/visual/2024/12/03/padi-siap-panen-2_169.jpeg?w=1200&amp;q=90",
+            "pubDate": "2026-10-30 09:13:56"
+        },
+        {
+            "source": "CNBC INDONESIA",
+            "title": "Video: Presiden Prabowo Bakal Resmikan Pabrik Baterai EV Ketiga",
+            "description": "Presiden Prabowo Bakal Resmikan Pabrik Baterai EV Ketiga",
+            "url": "https://www.cnbcindonesia.com/news/20261030142438-8-780947/video-presiden-prabowo-bakal-resmikan-pabrik-baterai-ev-ketiga",
+            "image": "https://awsimages.detik.net.id/visual/2026/10/30/presiden-prabowo-bakal-resmikan-pabrik-baterai-ev-ketiga-1793347164926_169.png?w=1200&amp;q=90",
+            "pubDate": "2026-10-30 09:10:39"
+        },
+        {
+            "source": "CNBC INDONESIA",
+            "title": "RI Impor 91% Barang Ini, Mendag Budi Kasih Wejangan Tegas ke Pengusaha",
+            "description": "Mendag Budi Santoso ungkap 91% impor Indonesia didominasi bahan baku dan barang modal. Ia dorong perluasan perdagangan untuk tingkatkan ekspor dan industri.",
+            "url": "https://www.cnbcindonesia.com/news/20261030150439-4-780961/ri-impor-91-barang-ini-mendag-budi-kasih-wejangan-tegas-ke-pengusaha",
+            "image": "https://awsimages.detik.net.id/visual/2026/10/30/menteri-perdagangan-mendag-budi-santoso-saat-memberikan-paparannya-di-acara-rapimnas-kadin-2026-di-jakarta-jumat-30102026-1793347616529_169.jpeg?w=1200&amp;q=90",
+            "pubDate": "2026-10-30 09:10:00"
+        },
+        {
+            "source": "CNBC INDONESIA",
+            "title": "Pengusaha Ini Bangun Rumah Sayur, Petani Tak Lagi Bingung",
+            "description": "Pengusaha pertanian luncurkan gerai Rumah Sayur untuk menjual hasil panen petani lokal.",
+            "url": "https://www.cnbcindonesia.com/news/20261030155051-4-780986/pengusaha-ini-bangun-rumah-sayur-petani-tak-lagi-bingung",
+            "image": "https://awsimages.detik.net.id/visual/2026/10/30/direktur-utama-rumah-tani-bahtiar-meyampaikan-pemaparannya-dalam-acara-world-food-day-inovasi-untuk-kedaulatan-pangan-indonesi-1793330351319_169.jpeg?w=1200&amp;q=90",
+            "pubDate": "2026-10-30 09:00:30"
+        },
+        {
+            "source": "CNBC INDONESIA",
+            "title": "Video: Ada Dugaan Singapura Jual Lagi Sebagian Pasokan LNG dari RI",
+            "description": "Ada Dugaan Singapura Jual Lagi Sebagian Pasokan LNG dari RI",
+            "url": "https://www.cnbcindonesia.com/news/20261030142336-8-780944/video-ada-dugaan-singapura-jual-lagi-sebagian-pasokan-lng-dari-ri",
+            "image": "https://awsimages.detik.net.id/visual/2026/10/30/ada-dugaan-singapura-jual-lagi-sebagian-pasokan-lng-dari-ri-1793346939734_169.png?w=1200&amp;q=90",
+            "pubDate": "2026-10-30 09:00:08"
+        },
+        {
+            "source": "REPUBLIKA",
+            "title": "Anker Hadirkan Teknologi untuk Setiap Momen Kehidupan",
+            "description": "REPUBLIKA.CO.ID, JAKARTA -- One Anker Event hadir untuk menyatukan Anker, Anker soundcore, dan Anker eufy dalam satu ekosistem merek di bawah semangat Ultimate Innovations. One Anker diperkenalkan bersamaan dengan peluncuran...",
+            "url": "https://network.republika.co.id/berita/tnpqw5484/anker-hadirkan-teknologi-untuk-setiap-momen-kehidupan",
+            "image": "https://static.republika.co.id/uploads/images/detailnews/_261030161014-684.png",
+            "pubDate": "2026-10-30 09:12:05"
+        },
+        {
+            "source": "REPUBLIKA",
+            "title": "Borong 19 Kursi Knesset, Warga Arab Israel Kini Jadi Penentu Arah Pemerintahan",
+            "description": "JAKARTA — Peta kekuasaan Israel mengalami perubahan signifikan setelah dua kelompok politik yang dipimpin tokoh Arab meraih 19 kursi dalam pemilu parlemen pada Selasa, 27 Oktober 2026. Perolehan bersejarah tersebut...",
+            "url": "https://news.republika.co.id/berita/tnpqsh451/borong-19-kursi-knesset-warga-arab-israel-kini-jadi-penentu-arah-pemerintahan",
+            "image": "https://static.republika.co.id/uploads/images/detailnews/_261028054739-679.png",
+            "pubDate": "2026-10-30 09:09:53"
+        },
+        {
+            "source": "REPUBLIKA",
+            "title": "Penyelidikan Kematian Aktris Hayden Panettiere Ditutup",
+            "description": "JAKARTA -- Kematian aktris Hayden Panettiere, yang dikenal melalui film Scream 6, secara resmi dinyatakan sebagai \"kecelakaan\". Departemen Kepolisian Greenville juga mengonfirmasi bahwa penyelidikan atas kematian sang aktris telah...",
+            "url": "https://ameera.republika.co.id/berita/tnpqqw425/penyelidikan-kematian-aktris-hayden-panettiere-ditutup",
+            "image": "https://static.republika.co.id/uploads/images/detailnews/aktris-hayden_260817152412-328.jpg",
+            "pubDate": "2026-10-30 09:08:56"
+        },
+        {
+            "source": "REPUBLIKA",
+            "title": "Skema Impor Migas Lewat Lemigas Belum Bisa Diterapkan, Ini Alasannya",
+            "description": "JAKARTA — Kementerian Energi dan Sumber Daya Mineral (ESDM) menyatakan skema impor minyak dan gas bumi (migas) melalui Lemigas belum bisa langsung diterapkan meski payung hukumnya telah terbit. Pemerintah...",
+            "url": "https://ekonomi.republika.co.id/berita/tnpqgp423/skema-impor-migas-lewat-lemigas-belum-bisa-diterapkan-ini-alasannya",
+            "image": "https://static.republika.co.id/uploads/images/detailnews/069629600-1776423962-830-556.jpg",
+            "pubDate": "2026-10-30 09:02:49"
+        },
+        {
+            "source": "REPUBLIKA",
+            "title": "Pramono Ingin Jadikan Pasar Baru Ikon Wisata Kuliner 24 Jam",
+            "description": "REPUBLIKA.CO.ID, JAKARTA -- Pemerintah Provinsi (Pemprov) DKI Jakarta berencana menjadikan Pasar Baru sebagai kawasan wisata kuliner seperti Myeongdong di Korea Selatan. Pasalnya, kawasan tersebut memiliki potensi untuk dikembangkan menjadi hub...",
+            "url": "https://news.republika.co.id/berita/tnpq8v484/pramono-ingin-jadikan-pasar-baru-ikon-wisata-kuliner-24-jam",
+            "image": "https://static.republika.co.id/uploads/images/detailnews/suasana-kawasan-cagar-budaya-di-jalan-pasar-baru-jakarta_220922140025-683.jpg",
+            "pubDate": "2026-10-30 08:58:07"
+        }
+    ]
 }
