@@ -1,44 +1,100 @@
 {
     "articles": [
         {
-            "source": "CNN INDONESIA",
-            "title": "Polisi Sita Aset Rp150 M Milik Bandar Narkoba Jaringan Malaysia",
-            "description": "Dirtipid Narkoba Bareskrim Polri mengatakan sindikat tersebut mengedarkan narkoba di wilayah Madura, Surabaya, dan sejumlah titik di Pulau Kalimantan.",
-            "url": "https://www.cnnindonesia.com/nasional/20261118214335-12-1428748/polisi-sita-aset-rp150-m-milik-bandar-narkoba-jaringan-malaysia",
-            "image": "https://akcdn.detik.net.id/visual/2026/09/03/pengungkapan-tindak-pidana-perjudian-daring-1788429376454_169.jpeg?w=360&amp;q=90",
-            "pubDate": "2026-11-18 15:51:45"
+            "source": "ANTARA NEWS",
+            "title": "Pochettino tiba di Carrington, siap hadapi tantangan Liverpool",
+            "description": "Mauricio Pochettino resmi memulai tugasnya sebagai pelatih kepala Manchester United dengan mendatangi kompleks latihan ...",
+            "url": "https://www.antaranews.com/berita/5863927/pochettino-tiba-di-carrington-siap-hadapi-tantangan-liverpool",
+            "image": "https://img.antaranews.com/cache/800x533/2024/02/08/Pochettino.jpg",
+            "pubDate": "2026-11-18 19:56:19"
+        },
+        {
+            "source": "ANTARA NEWS",
+            "title": "Juan Mata gantung sepatu setelah dua dekade berkarier",
+            "description": "Mantan gelandang tim nasional Spanyol Juan Mata mengumumkan pensiun dari sepak bola profesional pada usia 38 tahun, ...",
+            "url": "https://www.antaranews.com/berita/5863923/juan-mata-gantung-sepatu-setelah-dua-dekade-berkarier",
+            "image": "https://img.antaranews.com/cache/800x533/2025/09/16/1000018501.jpg",
+            "pubDate": "2026-11-18 19:46:08"
+        },
+        {
+            "source": "ANTARA NEWS",
+            "title": "Pupuk Indonesia perkuat distribusi pupuk berbasis pemantauan digital",
+            "description": "PT Pupuk Indonesia meningkatkan pengawasan distribusi pupuk melalui sistem pemantauan digital untuk memastikan ...",
+            "url": "https://www.antaranews.com/berita/5863919/pupuk-indonesia-perkuat-distribusi-pupuk-berbasis-pemantauan-digital",
+            "image": "https://img.antaranews.com/cache/800x533/2026/11/19/D05A079C-1F5B-4A91-B14B-F4D97C13EAA8.jpeg",
+            "pubDate": "2026-11-18 19:27:46"
+        },
+        {
+            "source": "ANTARA NEWS",
+            "title": "Imigrasi Madiun beri pengawasan 974 WNA, didominasi santri Malaysia",
+            "description": "Kantor Imigrasi Kelas II Non-Tempat Pemeriksaan Imigrasi (TPI) Madiun, Jawa Timur, memberikan pengawasan ...",
+            "url": "https://www.antaranews.com/berita/5863915/imigrasi-madiun-beri-pengawasan-974-wna-didominasi-santri-malaysia",
+            "image": "https://img.antaranews.com/cache/800x533/2026/11/18/deportasi-2026.jpeg",
+            "pubDate": "2026-11-18 19:21:39"
+        },
+        {
+            "source": "ANTARA NEWS",
+            "title": "Pemkot Bekasi jajaki kolaborasi Habibie Center perkuat layanan publik",
+            "description": "Pemerintah Kota Bekasi, Jawa Barat, menjajaki kolaborasi bersama The Habibie Center sebagai langkah strategis ...",
+            "url": "https://www.antaranews.com/berita/5863911/pemkot-bekasi-jajaki-kolaborasi-habibie-center-perkuat-layanan-publik",
+            "image": "https://img.antaranews.com/cache/800x533/2026/11/18/IMG-20261118-008.jpg",
+            "pubDate": "2026-11-18 19:08:38"
         },
         {
             "source": "CNN INDONESIA",
-            "title": "FOTO: Buka Peluang Kuliah, Siswa Penerima KJP Ikuti Try Out Gratis",
-            "description": "Suasana siswa SMA dan Madrasah Aliyah Negeri di Jakarta Timur mengikuti try out gratis persiapan masuk perguruan tinggi yang diperuntukkan bagi penerima KJP.",
-            "url": "https://www.cnnindonesia.com/nasional/20261118160639-22-1428607/foto-buka-peluang-kuliah-siswa-penerima-kjp-ikuti-try-out-gratis",
-            "image": "https://akcdn.detik.net.id/visual/2026/11/18/upaya-buka-peluang-kuliah-siswa-penerima-kjp-ikuti-try-out-gratis-1794991710720_169.jpeg?w=360&amp;q=90",
-            "pubDate": "2026-11-18 15:17:51"
+            "title": "Densus Tangkap 15 Tersangka Terorisme di 6 Provinsi Sepekan Terakhir",
+            "description": "Densus 88 Polri menangkap 15 tersangka terorisme di enam provinsi dalam sepekan terakhir. Berikut daftarnya:",
+            "url": "https://www.cnnindonesia.com/nasional/20261118220613-12-1428751/densus-tangkap-15-tersangka-terorisme-di-6-provinsi-sepekan-terakhir",
+            "image": "https://akcdn.detik.net.id/visual/2023/05/30/ilustrasi-penangkapan-2_169.jpeg?w=360&amp;q=90",
+            "pubDate": "2026-11-18 22:43:11"
         },
         {
             "source": "CNN INDONESIA",
-            "title": "Golkar soal Wapres Baru: Jangan Sampai Ada Matahari Kembar",
-            "description": "Waketum Golkar menekankan pentingnya wapres baru pengganti Gibran untuk mendukung Prabowo tanpa menjadi rival. Prabowo akan setor dua nama ke MPR untuk dipilih.",
-            "url": "https://www.cnnindonesia.com/nasional/20261118215206-32-1428749/golkar-soal-wapres-baru-jangan-sampai-ada-matahari-kembar",
-            "image": "https://akcdn.detik.net.id/visual/2025/12/06/presiden-prabowo-hadiri-puncak-hut-ke-61-partai-golkar-1764991120789_169.jpeg?w=360&amp;q=90",
-            "pubDate": "2026-11-18 15:04:20"
+            "title": "Warga Bali Temukan Batu yang Diduga Sarkofagus Saat Gali Tanah",
+            "description": "Warga Karangasem, Bali menemukan batu berbentuk peti yang diduga sarkofagus saat menggali tanah. Temuan bersejarah ini menarik perhatian aparat.",
+            "url": "https://www.cnnindonesia.com/nasional/20261118202923-20-1428729/warga-bali-temukan-batu-yang-diduga-sarkofagus-saat-gali-tanah",
+            "image": "https://akcdn.detik.net.id/visual/2026/11/18/warga-di-karangasem-temukan-batu-yang-diduga-sarkofagus-saat-gali-tanah-1795006703814_169.jpeg?w=360&amp;q=90",
+            "pubDate": "2026-11-18 22:15:38"
         },
         {
             "source": "CNN INDONESIA",
-            "title": "Gerindra Ungkap Kriteria Penting Bagi Calon Wapres Pengganti Gibran",
-            "description": "Juru Bicara Gerindra menekankan pentingnya loyalitas dalam pemilihan wapres baru pengganti Gibran. Presiden Prabowo harus menyetor dua nama untuk dipilih MPR.",
-            "url": "https://www.cnnindonesia.com/nasional/20261118213419-32-1428738/gerindra-ungkap-kriteria-penting-bagi-calon-wapres-pengganti-gibran",
-            "image": "https://akcdn.detik.net.id/visual/2025/02/15/hut-ke-17-partai-gerindra-11_169.jpeg?w=360&amp;q=90",
-            "pubDate": "2026-11-18 14:42:17"
+            "title": "Catatan Buruh KASBI atas UU Pelindungan Naker, Soroti Magang-Pesangon",
+            "description": "Kongres Aliansi Serikat Buruh Indonesia (KASBI) beri catatan atas UU Pelindungan Naker ke DPR. Soroti magang yang bisa memicu eksploitasi, PKWT, dan pesangon.",
+            "url": "https://www.cnnindonesia.com/nasional/20261118151645-20-1428581/catatan-buruh-kasbi-atas-uu-pelindungan-naker-soroti-magang-pesangon",
+            "image": "https://akcdn.detik.net.id/visual/2026/05/01/aksi-may-day-di-surabaya-terpecah-kasbi-dan-mahasiswa-pilih-demo-di-dprd-jatim-1777629083867_169.jpeg?w=360&amp;q=90",
+            "pubDate": "2026-11-18 21:04:43"
         },
         {
             "source": "CNN INDONESIA",
-            "title": "Korban Ledakan Kilang Migas di Cepu Meninggal, Luka Bakar 90 Persen",
-            "description": "Kilang migas di Cepu meledak, satu pekerja meninggal akibat luka bakar parah. Polisi masih menyelidiki penyebab ledakan.",
-            "url": "https://www.cnnindonesia.com/nasional/20261118205910-20-1428735/korban-ledakan-kilang-migas-di-cepu-meninggal-luka-bakar-90-persen",
-            "image": "https://akcdn.detik.net.id/visual/2024/02/04/ilustrasi-korban-tewas_169.jpeg?w=360&amp;q=90",
-            "pubDate": "2026-11-18 14:12:09"
+            "title": "UGM Minta Mahasiswa Demonstran Tak Dibenturkan dengan Premanisme",
+            "description": "UGM mengingatkan mahasiswa untuk tidak terlibat benturan dengan premanisme saat menyampaikan aspirasi. Dialog dan pencegahan kekerasan jadi kunci.",
+            "url": "https://www.cnnindonesia.com/nasional/20261118193033-20-1428703/ugm-minta-mahasiswa-demonstran-tak-dibenturkan-dengan-premanisme",
+            "image": "https://akcdn.detik.net.id/visual/2026/11/18/sri-sultan-hb-x-kumpulkan-pimpinan-kampus-se-jogja-1795006186665_169.jpeg?w=360&amp;q=90",
+            "pubDate": "2026-11-18 20:29:11"
+        },
+        {
+            "source": "CNN INDONESIA",
+            "title": "Dasco ke Andi Gani yang Tak Kena Sadap: Bangunnya Siang",
+            "description": "Wakil Ketua DPR Sufmi Dasco menyindir Andi Gani KSPSI soal penyadapan. Dasco menegaskan dukungan terhadap RUU Penyadapan dan proses hukum kasus ini.",
+            "url": "https://www.cnnindonesia.com/nasional/20261118203622-32-1428732/dasco-ke-andi-gani-yang-tak-kena-sadap-bangunnya-siang",
+            "image": "https://akcdn.detik.net.id/visual/2026/11/18/dpr-terima-aspirasi-buruh-1794974117661_169.jpeg?w=360&amp;q=90",
+            "pubDate": "2026-11-18 19:30:22"
+        },
+        {
+            "source": "CNBC INDONESIA",
+            "title": "Houthi Makin Menggila, Arab Saudi Bersiap Perang hingga 2027",
+            "description": "Arab Saudi bersiap menghadapi perang berkepanjangan melawan Houthi di Yaman, dengan rencana operasi militer hingga tahun depan meski mengalami kemunduran.",
+            "url": "https://www.cnbcindonesia.com/news/20261119052617-4-786459/houthi-makin-menggila-arab-saudi-bersiap-perang-hingga-2027",
+            "image": "https://awsimages.detik.net.id/visual/2026/10/09/iran-crisissaudi-yemen-syria-1791532276103_169.jpeg?w=1200&amp;q=90",
+            "pubDate": "2026-11-18 22:30:00"
+        },
+        {
+            "source": "CNBC INDONESIA",
+            "title": "Detik-Detik Prabowo Tiba di China, Disambut Pasukan Kehormatan",
+            "description": "Prabowo tiba di Shenzhen, China, untuk menghadiri KTT APEC 2026 setelah mendorong penguatan persatuan dan sentralitas ASEAN di Manila.",
+            "url": "https://www.cnbcindonesia.com/news/20261118183710-7-786423/detik-detik-prabowo-tiba-di-china-disambut-pasukan-kehormatan",
+            "image": "https://awsimages.detik.net.id/visual/2026/11/18/presiden-indonesia-prabowo-subianto-tiba-di-bandara-internasional-shenzhen-baoan-untuk-menghadiri-konferensi-tingkat-tinggi-kt-1795001826544_169.jpeg?w=1200&amp;q=90",
+            "pubDate": "2026-11-18 22:00:00"
         },
         {
             "source": "CNBC INDONESIA",
@@ -65,60 +121,44 @@
             "pubDate": "2026-11-18 14:48:55"
         },
         {
-            "source": "CNBC INDONESIA",
-            "title": "Bantu Rumah Tangga dan Dunia Usaha, Pemerintah Potong Pajak Listrik-BBM",
-            "description": "Pemerintah Jerman akan memotong pajak listrik dan membatasi harga BBM untuk membantu rumah tangga dan usaha menghadapi krisis energi akibat perang AS-Iran",
-            "url": "https://www.cnbcindonesia.com/news/20261118172612-4-786410/bantu-rumah-tangga-dunia-usaha-pemerintah-potong-pajak-listrik-bbm",
-            "image": "https://awsimages.detik.net.id/visual/2025/10/27/dua-menara-besar-di-bavaria-jerman-bagian-selatan-kini-tinggal-kenangan-sabtu-siang-25102025-kedua-menara-pendingin-pembangkit-1761532592103_169.jpeg?w=1200&amp;q=90",
-            "pubDate": "2026-11-18 14:40:00"
-        },
-        {
-            "source": "CNBC INDONESIA",
-            "title": "Bom! Kapal ADNOC Diserang di Laut Hormuz, Awak Hilang-Belasan Luka",
-            "description": "ADNOC LdanS melaporkan serangan di Selat Hormuz, satu awak hilang dan 11 terluka. Pencarian masih berlangsung di tengah ketegangan regional yang meningkat.",
-            "url": "https://www.cnbcindonesia.com/news/20261118174007-4-786412/bom-kapal-adnoc-diserang-di-laut-hormuz-awak-hilang-belasan-luka",
-            "image": "https://awsimages.detik.net.id/visual/2026/06/27/militer-as-menyerang-iran-pada-hari-jumat-26-juni-sebagai-tanggapan-atas-serangan-pesawat-tak-berawak-iran-terhadap-kapal-karg-1782555891248_169.png?w=1200&amp;q=90",
-            "pubDate": "2026-11-18 14:30:00"
+            "source": "REPUBLIKA",
+            "title": "Iran Hantam Peluncur Rudal Patriot Milik AS di Kuwait",
+            "description": "TEHERAN — Iran mengklaim melancarkan serangan pesawat nirawak terhadap sistem pertahanan udara Patriot milik Amerika Serikat (AS) di Pangkalan Udara Ali Al Salem, Kuwait. Pada saat bersamaan, ketegangan di...",
+            "url": "https://news.republika.co.id/berita/toq1ge393/iran-hantam-peluncur-rudal-patriot-milik-as-di-kuwait",
+            "image": "https://static.republika.co.id/uploads/images/detailnews/_260716141419-878.png",
+            "pubDate": "2026-11-18 23:33:50"
         },
         {
             "source": "REPUBLIKA",
-            "title": "Kemenkum Babel Optimalkan Layanan PPNS via Transformasi Digital",
-            "description": "REPUBLIKA.CO.ID, PANGKALPINANG, – Kantor Wilayah Kementerian Hukum Kepulauan Bangka Belitung berkomitmen mengoptimalkan layanan administrasi PPNS melalui transformasi digital dan pembaruan sistem pelayanan. Langkah strategis ini diambil guna mewujudkan pelayanan...",
-            "url": "https://news.republika.co.id/berita/topkmd3530000/kemenkum-babel-optimalkan-layanan-ppns-via-transformasi-digital",
-            "image": "https://static.republika.co.id/uploads/images/detailnews/078337100-1795023013-ppns1jpeg.jpeg",
-            "pubDate": "2026-11-18 17:30:13"
+            "title": "BI Bakal Uji Coba QRIS Cross Border di Hongkong pada Desember 2026",
+            "description": "REPUBLIKA.CO.ID, JAKARTA -- Bank Indonesia (BI) menyampaikan bakal melakukan uji coba perluasan layanan Quick Response Code Indonesian Standard (QRIS) di Hongkong. Gubernur BI Destry Damayanti menuturkan, uji coba QRIS di Hongkong...",
+            "url": "https://ekonomi.republika.co.id/berita/toq16l484/bi-bakal-uji-coba-qris-cross-border-di-hongkong-pada-desember-2026",
+            "image": "https://static.republika.co.id/uploads/images/detailnews/_250706154127-373.png",
+            "pubDate": "2026-11-18 23:27:57"
         },
         {
             "source": "REPUBLIKA",
-            "title": "Posko Kejari di Pelabuhan Bangka Barat Perkuat Pengawasan Hukum dan Keamanan",
-            "description": "REPUBLIKA.CO.ID, MENTOK, – Pemerintah Kabupaten Bangka Barat menyambut baik pendirian Posko Perwakilan Kejaksaan Negeri (Kejari) Bangka Barat di dua pelabuhan strategis. Keberadaan posko di Pelabuhan Tanjungkalian dan Tanjungular ini...",
-            "url": "https://news.republika.co.id/berita/topjxl1330000/posko-kejari-di-pelabuhan-bangka-barat-perkuat-pengawasan-hukum-dan-keamanan",
-            "image": "https://static.republika.co.id/uploads/images/detailnews/088536300-1795022121-IMG_20260622_143719jpg.jpg",
-            "pubDate": "2026-11-18 17:15:21"
+            "title": "Rieke Soroti Kepmen ESDM Soal Usaha Tambang di Perairan Ujung Kulon Bertentangan dengan Keppres",
+            "description": "JAKARTA -- Anggota Komisi XIII DPR RI Rieke Diah Pitaloka menyoroti terbitnya Keputusan Menteri Energi dan Sumberdaya Mineral (Kepmen ESDM) Nomor 65.K/MB.01/MEM.B/2026 bulan Februari yang bertolak belakang dengan Keputusan...",
+            "url": "https://news.republika.co.id/berita/topzja409/rieke-soroti-kepmen-esdm-soal-usaha-tambang-di-perairan-ujung-kulon-bertentangan-dengan-keppres",
+            "image": "https://static.republika.co.id/uploads/images/detailnews/anggota-komisi-vi-dpr-ri-rieke-diah-pitaloka-meminta_220808215154-176.jpeg",
+            "pubDate": "2026-11-18 23:27:00"
         },
         {
             "source": "REPUBLIKA",
-            "title": "UNG dan IPDN Jajaki Kerja Sama Strategis Penguatan Tri Dharma Perguruan Tinggi",
-            "description": "REPUBLIKA.CO.ID, GORONTALO, – Universitas Negeri Gorontalo (UNG) dan Institut Pemerintahan Dalam Negeri (IPDN) resmi menjajaki peluang kerja sama strategis dalam rangka penguatan tri dharma perguruan tinggi. Penjajakan ini ditandai...",
-            "url": "https://news.republika.co.id/berita/topj8h2130000/ung-dan-ipdn-jajaki-kerja-sama-strategis-penguatan-tri-dharma-perguruan-tinggi",
-            "image": "https://static.republika.co.id/uploads/images/detailnews/099902500-1795021217-1098729jpg.jpg",
-            "pubDate": "2026-11-18 17:00:17"
+            "title": "Menhan Israel Ancam Caplok Lebih Banyak Wilayah Palestina, Lebanon, dan Suriah",
+            "description": "TEL AVIV — Menteri Pertahanan Israel, Israel Katz, mengancam akan mencaplok lebih banyak wilayah di Jalur Gaza, Lebanon, dan Suriah. Dia mengatakan, langkah tersebut bakal diambil jika ketegangan di...",
+            "url": "https://news.republika.co.id/berita/toq0oj393/menhan-israel-ancam-caplok-lebih-banyak-wilayah-palestina-lebanon-dan-suriah",
+            "image": "https://static.republika.co.id/uploads/images/detailnews/042940000-1766491678-830-556.jpg",
+            "pubDate": "2026-11-18 23:17:07"
         },
         {
             "source": "REPUBLIKA",
-            "title": "Hanura Targetkan 1 Kursi DPR RI dari Maluku Utara pada Pemilu 2029",
-            "description": "TERNATE - Partai Hanura menargetkan merebut sedikitnya satu kursi DPR RI dari Daerah Pemilihan (Dapil) Maluku Utara pada kontestasi Pemilu 2029 mendatang.\r\nTarget tersebut dicanangkan Ketua Tim Task Force DPP...",
-            "url": "https://news.republika.co.id/berita/tooug3320/hanura-targetkan-1-kursi-dpr-ri-dari-maluku-utara-pada-pemilu-2029",
-            "image": "https://static.republika.co.id/uploads/images/detailnews/maluku_261118150416-942.jpg",
-            "pubDate": "2026-11-18 16:55:00"
-        },
-        {
-            "source": "REPUBLIKA",
-            "title": "Empat Bulan Dilanda Kemarau, Debit Air Kolam Retensi Boulevard Menyusut",
-            "description": "KENDARI -- Kolam Retensi Boulevard di Kendari, Sulawesi Tenggara, mengalami penyusutan debit air setelah wilayah tersebut dilanda musim kemarau selama empat bulan terakhir. Kondisi itu terlihat pada Rabu (18/11/2026), ketika...",
-            "url": "https://visual.republika.co.id/berita/topgbx375/empat-bulan-dilanda-kemarau-debit-air-kolam-retensi-boulevard-menyusut",
-            "image": "https://static.republika.co.id/uploads/images/detailnews/072729000-1795015321-830-556.jpg",
-            "pubDate": "2026-11-18 16:55:00"
+            "title": "Tinggalkan Amerika Serikat, Mauricio Pochettino Bertekad Merahkan Manchester",
+            "description": "Era baru Manchester United di bawah Mauricio Pochettino. (Grafis: Kevin Bagus Prinusa/Skor.id)SKOR.id - Pelatih baru Manchester United, Mauricio Pochettino telah tiba dari Amerika Serikat, dan siap mengemban tugas baru.Mauricio...",
+            "url": "https://skor.id/posts/793295/tinggalkan-amerika-serikat-mauricio-pochettino-bertekad-merahkan-manchester",
+            "image": "https://static.republika.co.id/uploads/images/detailnews/094552500-1795042801-261117081853-572jpeg.jpeg",
+            "pubDate": "2026-11-18 23:00:01"
         }
     ]
 }
